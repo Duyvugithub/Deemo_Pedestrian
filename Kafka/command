@@ -1,0 +1,22 @@
+# Firstly move to kafka folder
+
+# Start the ZooKeeper service
+bin/zookeeper-server-start.sh config/zookeeper.properties
+# Start the Kafka broker service
+bin/kafka-server-start.sh config/server.properties
+# Create a topic demo-Kafka
+bin/kafka-topics.sh --create --topic get-data --bootstrap-server localhost:9092 --partitions 1
+
+# Producer with Kafka CLI
+bin/kafka-console-producer.sh --topic quickstart-events --bootstrap-server localhost:9092
+This is my first event
+This is my second event
+# Consumer with Kafka CLI
+bin/kafka-console-consumer.sh --topic quickstart-events --from-beginning --bootstrap-server localhost:9092
+This is my first event
+This is my second event
+
+# Terminate Kafka environment
+rm -rf /tmp/kafka-logs /tmp/zookeeper /tmp/kraft-combined-logs
+# List topic
+bin/kafka-topics.sh --list --zookeeper localhost:9092

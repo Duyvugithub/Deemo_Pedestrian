@@ -1,0 +1,6 @@
+build:
+    docker build -t spark .
+
+run:
+    docker run --mount type=bind,source="$(pwd)",target=/opt/application spark driver local:///opt/application/Spark.py 
+

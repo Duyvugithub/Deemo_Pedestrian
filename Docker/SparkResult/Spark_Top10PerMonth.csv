@@ -1,0 +1,1601 @@
+Year,Month,Sensor_ID,Hourly_Counts,sensor_description,sensor_name
+2010,04,4,1111326,Town Hall (West),Swa123_T
+2010,04,3,837419,Melbourne Central,Swa295_T
+2010,04,2,779147,Bourke Street Mall (South),Bou283_T
+2010,04,5,743949,Princes Bridge,PriNW_T
+2010,04,6,709573,Flinders Street Station Underpass,FliS_T
+2010,04,1,584322,Bourke Street Mall (North),Bou292_T
+2010,04,15,545050,State Library,QV_T
+2010,04,16,513211,Australia on Collins,Col270_T
+2010,04,13,487441,Flagstaff Station,Wil277_T
+2010,04,17,319625,Collins Place (South),Col15_T
+2012,02,4,1136505,Town Hall (West),Swa123_T
+2012,02,3,797638,Melbourne Central,Swa295_T
+2012,02,6,796421,Flinders Street Station Underpass,FliS_T
+2012,02,2,795730,Bourke Street Mall (South),Bou283_T
+2012,02,1,693906,Bourke Street Mall (North),Bou292_T
+2012,02,5,629101,Princes Bridge,PriNW_T
+2012,02,13,566731,Flagstaff Station,Wil277_T
+2012,02,15,548209,State Library,QV_T
+2012,02,16,501062,Australia on Collins,Col270_T
+2012,02,17,350724,Collins Place (South),Col15_T
+2015,09,38,1727151,Flinders St-Swanston St (West),Swa11_T
+2015,09,4,1049441,Town Hall (West),Swa123_T
+2015,09,6,1038950,Flinders Street Station Underpass,FliS_T
+2015,09,22,1021606,Flinders St-Elizabeth St (East),Eli274_T
+2015,09,3,930881,Melbourne Central,Swa295_T
+2015,09,5,821938,Princes Bridge,PriNW_T
+2015,09,1,802090,Bourke Street Mall (North),Bou292_T
+2015,09,24,758920,Spencer St-Collins St (North),Col620_T
+2015,09,2,751721,Bourke Street Mall (South),Bou283_T
+2015,09,29,745970,St Kilda Rd-Alexandra Gardens,AG_T
+2009,07,4,1110075,Town Hall (West),Swa123_T
+2009,07,2,877690,Bourke Street Mall (South),Bou283_T
+2009,07,3,826210,Melbourne Central,Swa295_T
+2009,07,6,757096,Flinders Street Station Underpass,FliS_T
+2009,07,5,743246,Princes Bridge,PriNW_T
+2009,07,1,610587,Bourke Street Mall (North),Bou292_T
+2009,07,13,562069,Flagstaff Station,Wil277_T
+2009,07,16,530208,Australia on Collins,Col270_T
+2009,07,15,525256,State Library,QV_T
+2009,07,17,346578,Collins Place (South),Col15_T
+2021,07,41,709195,Flinders La-Swanston St (West),Swa31
+2021,07,22,587906,Flinders St-Elizabeth St (East),Eli274_T
+2021,07,5,526115,Princes Bridge,PriNW_T
+2021,07,35,499399,Southbank,SouthB_T
+2021,07,4,483035,Town Hall (West),Swa123_T
+2021,07,28,408728,The Arts Centre,VAC_T
+2021,07,55,405882,Elizabeth St-La Trobe St (East),Eli380_T
+2021,07,1,397827,Bourke Street Mall (North),Bou292_T
+2021,07,6,363938,Flinders Street Station Underpass,FliS_T
+2021,07,15,343527,State Library,QV_T
+2014,03,4,1151765,Town Hall (West),Swa123_T
+2014,03,22,1099678,Flinders St-Elizabeth St (East),Eli274_T
+2014,03,3,1083106,Melbourne Central,Swa295_T
+2014,03,1,845532,Bourke Street Mall (North),Bou292_T
+2014,03,5,844643,Princes Bridge,PriNW_T
+2014,03,32,836980,City Square,CSq_T
+2014,03,2,787833,Bourke Street Mall (South),Bou283_T
+2014,03,15,744602,State Library,QV_T
+2014,03,24,733306,Spencer St-Collins St (North),Col620_T
+2014,03,28,679056,The Arts Centre,VAC_T
+2020,02,22,1209332,Flinders St-Elizabeth St (East),Eli274_T
+2020,02,41,1174631,Flinders La-Swanston St (West),Swa31
+2020,02,6,1006221,Flinders Street Station Underpass,FliS_T
+2020,02,35,1002477,Southbank,SouthB_T
+2020,02,5,942341,Princes Bridge,PriNW_T
+2020,02,4,905988,Town Hall (West),Swa123_T
+2020,02,24,888466,Spencer St-Collins St (North),Col620_T
+2020,02,1,799619,Bourke Street Mall (North),Bou292_T
+2020,02,3,741496,Melbourne Central,Swa295_T
+2020,02,28,701412,The Arts Centre,VAC_T
+2011,11,4,1080001,Town Hall (West),Swa123_T
+2011,11,2,927147,Bourke Street Mall (South),Bou283_T
+2011,11,6,827084,Flinders Street Station Underpass,FliS_T
+2011,11,3,796439,Melbourne Central,Swa295_T
+2011,11,5,596603,Princes Bridge,PriNW_T
+2011,11,13,547839,Flagstaff Station,Wil277_T
+2011,11,16,535336,Australia on Collins,Col270_T
+2011,11,15,438092,State Library,QV_T
+2011,11,17,366921,Collins Place (South),Col15_T
+2011,11,9,281895,Southern Cross Station,Col700_T
+2019,11,22,1311400,Flinders St-Elizabeth St (East),Eli274_T
+2019,11,41,1123654,Flinders La-Swanston St (West),Swa31
+2019,11,6,1105507,Flinders Street Station Underpass,FliS_T
+2019,11,4,1074747,Town Hall (West),Swa123_T
+2019,11,24,1054288,Spencer St-Collins St (North),Col620_T
+2019,11,1,1037267,Bourke Street Mall (North),Bou292_T
+2019,11,3,901523,Melbourne Central,Swa295_T
+2019,11,28,774709,The Arts Centre,VAC_T
+2019,11,35,770162,Southbank,SouthB_T
+2019,11,2,744945,Bourke Street Mall (South),Bou283_T
+2011,06,4,1033749,Town Hall (West),Swa123_T
+2011,06,2,949292,Bourke Street Mall (South),Bou283_T
+2011,06,3,787632,Melbourne Central,Swa295_T
+2011,06,6,781994,Flinders Street Station Underpass,FliS_T
+2011,06,5,563498,Princes Bridge,PriNW_T
+2011,06,13,528791,Flagstaff Station,Wil277_T
+2011,06,16,519698,Australia on Collins,Col270_T
+2011,06,15,479012,State Library,QV_T
+2011,06,17,347097,Collins Place (South),Col15_T
+2011,06,9,282452,Southern Cross Station,Col700_T
+2017,02,35,1209324,Southbank,SouthB_T
+2017,02,6,1021211,Flinders Street Station Underpass,FliS_T
+2017,02,5,914301,Princes Bridge,PriNW_T
+2017,02,24,899168,Spencer St-Collins St (North),Col620_T
+2017,02,3,893209,Melbourne Central,Swa295_T
+2017,02,1,884361,Bourke Street Mall (North),Bou292_T
+2017,02,2,686297,Bourke Street Mall (South),Bou283_T
+2017,02,28,676087,The Arts Centre,VAC_T
+2017,02,15,629603,State Library,QV_T
+2017,02,13,616789,Flagstaff Station,Wil277_T
+2019,10,22,1366031,Flinders St-Elizabeth St (East),Eli274_T
+2019,10,6,1151298,Flinders Street Station Underpass,FliS_T
+2019,10,24,1089498,Spencer St-Collins St (North),Col620_T
+2019,10,4,1047186,Town Hall (West),Swa123_T
+2019,10,1,1028681,Bourke Street Mall (North),Bou292_T
+2019,10,5,1028104,Princes Bridge,PriNW_T
+2019,10,41,982823,Flinders La-Swanston St (West),Swa31
+2019,10,25,965404,Melbourne Convention Exhibition Centre,MCEC_T
+2019,10,3,919197,Melbourne Central,Swa295_T
+2019,10,35,861390,Southbank,SouthB_T
+2021,08,22,372280,Flinders St-Elizabeth St (East),Eli274_T
+2021,08,41,304048,Flinders La-Swanston St (West),Swa31
+2021,08,55,269199,Elizabeth St-La Trobe St (East),Eli380_T
+2021,08,25,245638,Melbourne Convention Exhibition Centre,MCEC_T
+2021,08,35,231854,Southbank,SouthB_T
+2021,08,4,213065,Town Hall (West),Swa123_T
+2021,08,66,184230,State Library - New,QVN_T
+2021,08,15,184230,State Library,QV_T
+2021,08,47,181465,Melbourne Central-Elizabeth St (East),Eli250_T
+2021,08,6,180941,Flinders Street Station Underpass,FliS_T
+2011,09,4,1012580,Town Hall (West),Swa123_T
+2011,09,2,840685,Bourke Street Mall (South),Bou283_T
+2011,09,3,808565,Melbourne Central,Swa295_T
+2011,09,6,791232,Flinders Street Station Underpass,FliS_T
+2011,09,5,594221,Princes Bridge,PriNW_T
+2011,09,13,554223,Flagstaff Station,Wil277_T
+2011,09,16,523117,Australia on Collins,Col270_T
+2011,09,15,500709,State Library,QV_T
+2011,09,17,357663,Collins Place (South),Col15_T
+2011,09,9,283582,Southern Cross Station,Col700_T
+2013,11,4,1104187,Town Hall (West),Swa123_T
+2013,11,22,1016083,Flinders St-Elizabeth St (East),Eli274_T
+2013,11,3,918317,Melbourne Central,Swa295_T
+2013,11,1,876165,Bourke Street Mall (North),Bou292_T
+2013,11,2,839533,Bourke Street Mall (South),Bou283_T
+2013,11,5,742520,Princes Bridge,PriNW_T
+2013,11,24,665605,Spencer St-Collins St (North),Col620_T
+2013,11,28,643419,The Arts Centre,VAC_T
+2013,11,15,617230,State Library,QV_T
+2013,11,6,610156,Flinders Street Station Underpass,FliS_T
+2022,01,41,723167,Flinders La-Swanston St (West),Swa31
+2022,01,35,699875,Southbank,SouthB_T
+2022,01,4,537982,Town Hall (West),Swa123_T
+2022,01,5,528785,Princes Bridge,PriNW_T
+2022,01,3,470868,Melbourne Central,Swa295_T
+2022,01,84,456394,Elizabeth St - Flinders St (East) - New footpath,ElFi_T
+2022,01,55,455524,Elizabeth St-La Trobe St (East),Eli380_T
+2022,01,1,412675,Bourke Street Mall (North),Bou292_T
+2022,01,25,402501,Melbourne Convention Exhibition Centre,MCEC_T
+2022,01,6,381308,Flinders Street Station Underpass,FliS_T
+2021,11,41,833020,Flinders La-Swanston St (West),Swa31
+2021,11,35,663154,Southbank,SouthB_T
+2021,11,4,659965,Town Hall (West),Swa123_T
+2021,11,1,616995,Bourke Street Mall (North),Bou292_T
+2021,11,3,573539,Melbourne Central,Swa295_T
+2021,11,6,554083,Flinders Street Station Underpass,FliS_T
+2021,11,55,492453,Elizabeth St-La Trobe St (East),Eli380_T
+2021,11,66,456515,State Library - New,QVN_T
+2021,11,15,456515,State Library,QV_T
+2021,11,25,456039,Melbourne Convention Exhibition Centre,MCEC_T
+2010,09,4,1030277,Town Hall (West),Swa123_T
+2010,09,2,784423,Bourke Street Mall (South),Bou283_T
+2010,09,3,772614,Melbourne Central,Swa295_T
+2010,09,6,746196,Flinders Street Station Underpass,FliS_T
+2010,09,1,618262,Bourke Street Mall (North),Bou292_T
+2010,09,5,590036,Princes Bridge,PriNW_T
+2010,09,13,537300,Flagstaff Station,Wil277_T
+2010,09,16,512188,Australia on Collins,Col270_T
+2010,09,15,505153,State Library,QV_T
+2010,09,17,357462,Collins Place (South),Col15_T
+2017,10,41,1369663,Flinders La-Swanston St (West),Swa31
+2017,10,35,1305189,Southbank,SouthB_T
+2017,10,6,1149960,Flinders Street Station Underpass,FliS_T
+2017,10,4,1037201,Town Hall (West),Swa123_T
+2017,10,24,1013618,Spencer St-Collins St (North),Col620_T
+2017,10,1,963580,Bourke Street Mall (North),Bou292_T
+2017,10,3,956458,Melbourne Central,Swa295_T
+2017,10,28,861405,The Arts Centre,VAC_T
+2017,10,2,753803,Bourke Street Mall (South),Bou283_T
+2017,10,47,743330,Melbourne Central-Elizabeth St (East),Eli250_T
+2010,12,4,1232520,Town Hall (West),Swa123_T
+2010,12,2,1192427,Bourke Street Mall (South),Bou283_T
+2010,12,6,847734,Flinders Street Station Underpass,FliS_T
+2010,12,3,780191,Melbourne Central,Swa295_T
+2010,12,5,620999,Princes Bridge,PriNW_T
+2010,12,16,588052,Australia on Collins,Col270_T
+2010,12,15,474262,State Library,QV_T
+2010,12,13,468864,Flagstaff Station,Wil277_T
+2010,12,17,337140,Collins Place (South),Col15_T
+2010,12,14,262484,Sandridge Bridge,SanBri_T
+2012,11,4,1097719,Town Hall (West),Swa123_T
+2012,11,3,897542,Melbourne Central,Swa295_T
+2012,11,1,869758,Bourke Street Mall (North),Bou292_T
+2012,11,2,846704,Bourke Street Mall (South),Bou283_T
+2012,11,6,717746,Flinders Street Station Underpass,FliS_T
+2012,11,5,695578,Princes Bridge,PriNW_T
+2012,11,15,544294,State Library,QV_T
+2012,11,13,540514,Flagstaff Station,Wil277_T
+2012,11,16,525090,Australia on Collins,Col270_T
+2012,11,9,342801,Southern Cross Station,Col700_T
+2013,02,4,970271,Town Hall (West),Swa123_T
+2013,02,3,829318,Melbourne Central,Swa295_T
+2013,02,1,730890,Bourke Street Mall (North),Bou292_T
+2013,02,5,702616,Princes Bridge,PriNW_T
+2013,02,2,692982,Bourke Street Mall (South),Bou283_T
+2013,02,6,620231,Flinders Street Station Underpass,FliS_T
+2013,02,15,543332,State Library,QV_T
+2013,02,13,527318,Flagstaff Station,Wil277_T
+2013,02,16,483637,Australia on Collins,Col270_T
+2013,02,9,355431,Southern Cross Station,Col700_T
+2016,08,38,1805067,Flinders St-Swanston St (West),Swa11_T
+2016,08,35,1139566,Southbank,SouthB_T
+2016,08,4,1040264,Town Hall (West),Swa123_T
+2016,08,3,1024618,Melbourne Central,Swa295_T
+2016,08,6,1023647,Flinders Street Station Underpass,FliS_T
+2016,08,1,997722,Bourke Street Mall (North),Bou292_T
+2016,08,24,955010,Spencer St-Collins St (North),Col620_T
+2016,08,5,877871,Princes Bridge,PriNW_T
+2016,08,32,733874,City Square,CSq_T
+2016,08,28,714621,The Arts Centre,VAC_T
+2017,01,35,1400383,Southbank,SouthB_T
+2017,01,6,1055408,Flinders Street Station Underpass,FliS_T
+2017,01,5,1030135,Princes Bridge,PriNW_T
+2017,01,1,915872,Bourke Street Mall (North),Bou292_T
+2017,01,24,828032,Spencer St-Collins St (North),Col620_T
+2017,01,2,773310,Bourke Street Mall (South),Bou283_T
+2017,01,28,748812,The Arts Centre,VAC_T
+2017,01,7,642163,Birrarung Marr,Fed_T
+2017,01,32,579530,City Square,CSq_T
+2017,01,15,545573,State Library,QV_T
+2020,08,22,254305,Flinders St-Elizabeth St (East),Eli274_T
+2020,08,55,180654,Elizabeth St-La Trobe St (East),Eli380_T
+2020,08,41,137467,Flinders La-Swanston St (West),Swa31
+2020,08,35,130420,Southbank,SouthB_T
+2020,08,25,127307,Melbourne Convention Exhibition Centre,MCEC_T
+2020,08,47,124483,Melbourne Central-Elizabeth St (East),Eli250_T
+2020,08,26,115828,QV Market-Elizabeth St (West),Eli483_T
+2020,08,6,98834,Flinders Street Station Underpass,FliS_T
+2020,08,24,98464,Spencer St-Collins St (North),Col620_T
+2020,08,4,97813,Town Hall (West),Swa123_T
+2021,02,41,632923,Flinders La-Swanston St (West),Swa31
+2021,02,22,517017,Flinders St-Elizabeth St (East),Eli274_T
+2021,02,5,515746,Princes Bridge,PriNW_T
+2021,02,4,456419,Town Hall (West),Swa123_T
+2021,02,55,371647,Elizabeth St-La Trobe St (East),Eli380_T
+2021,02,6,355201,Flinders Street Station Underpass,FliS_T
+2021,02,1,354240,Bourke Street Mall (North),Bou292_T
+2021,02,28,317626,The Arts Centre,VAC_T
+2021,02,25,309576,Melbourne Convention Exhibition Centre,MCEC_T
+2021,02,47,293808,Melbourne Central-Elizabeth St (East),Eli250_T
+2021,06,41,574050,Flinders La-Swanston St (West),Swa31
+2021,06,22,484247,Flinders St-Elizabeth St (East),Eli274_T
+2021,06,35,426190,Southbank,SouthB_T
+2021,06,4,415985,Town Hall (West),Swa123_T
+2021,06,55,369319,Elizabeth St-La Trobe St (East),Eli380_T
+2021,06,5,358617,Princes Bridge,PriNW_T
+2021,06,1,349759,Bourke Street Mall (North),Bou292_T
+2021,06,66,309081,State Library - New,QVN_T
+2021,06,15,309081,State Library,QV_T
+2021,06,47,295397,Melbourne Central-Elizabeth St (East),Eli250_T
+2010,03,4,1145962,Town Hall (West),Swa123_T
+2010,03,3,908894,Melbourne Central,Swa295_T
+2010,03,5,823435,Princes Bridge,PriNW_T
+2010,03,2,819131,Bourke Street Mall (South),Bou283_T
+2010,03,6,778368,Flinders Street Station Underpass,FliS_T
+2010,03,15,622935,State Library,QV_T
+2010,03,1,620191,Bourke Street Mall (North),Bou292_T
+2010,03,13,581126,Flagstaff Station,Wil277_T
+2010,03,16,546200,Australia on Collins,Col270_T
+2010,03,17,363730,Collins Place (South),Col15_T
+2014,11,4,1173173,Town Hall (West),Swa123_T
+2014,11,22,1070165,Flinders St-Elizabeth St (East),Eli274_T
+2014,11,3,954541,Melbourne Central,Swa295_T
+2014,11,2,832719,Bourke Street Mall (South),Bou283_T
+2014,11,5,793174,Princes Bridge,PriNW_T
+2014,11,32,750766,City Square,CSq_T
+2014,11,24,676891,Spencer St-Collins St (North),Col620_T
+2014,11,6,658042,Flinders Street Station Underpass,FliS_T
+2014,11,15,587433,State Library,QV_T
+2014,11,28,575398,The Arts Centre,VAC_T
+2020,04,22,299425,Flinders St-Elizabeth St (East),Eli274_T
+2020,04,55,203304,Elizabeth St-La Trobe St (East),Eli380_T
+2020,04,35,194288,Southbank,SouthB_T
+2020,04,41,156713,Flinders La-Swanston St (West),Swa31
+2020,04,24,147616,Spencer St-Collins St (North),Col620_T
+2020,04,4,130659,Town Hall (West),Swa123_T
+2020,04,26,130433,QV Market-Elizabeth St (West),Eli483_T
+2020,04,6,129411,Flinders Street Station Underpass,FliS_T
+2020,04,3,127245,Melbourne Central,Swa295_T
+2020,04,47,126345,Melbourne Central-Elizabeth St (East),Eli250_T
+2017,06,35,1115676,Southbank,SouthB_T
+2017,06,6,1009192,Flinders Street Station Underpass,FliS_T
+2017,06,4,971094,Town Hall (West),Swa123_T
+2017,06,1,968495,Bourke Street Mall (North),Bou292_T
+2017,06,22,963521,Flinders St-Elizabeth St (East),Eli274_T
+2017,06,24,954109,Spencer St-Collins St (North),Col620_T
+2017,06,3,871622,Melbourne Central,Swa295_T
+2017,06,28,849099,The Arts Centre,VAC_T
+2017,06,5,748546,Princes Bridge,PriNW_T
+2017,06,2,702261,Bourke Street Mall (South),Bou283_T
+2021,09,22,311203,Flinders St-Elizabeth St (East),Eli274_T
+2021,09,35,279021,Southbank,SouthB_T
+2021,09,25,270099,Melbourne Convention Exhibition Centre,MCEC_T
+2021,09,41,246759,Flinders La-Swanston St (West),Swa31
+2021,09,55,242496,Elizabeth St-La Trobe St (East),Eli380_T
+2021,09,6,237929,Flinders Street Station Underpass,FliS_T
+2021,09,4,173612,Town Hall (West),Swa123_T
+2021,09,47,164716,Melbourne Central-Elizabeth St (East),Eli250_T
+2021,09,66,150230,State Library - New,QVN_T
+2021,09,15,150230,State Library,QV_T
+2010,02,4,948404,Town Hall (West),Swa123_T
+2010,02,3,715260,Melbourne Central,Swa295_T
+2010,02,2,712874,Bourke Street Mall (South),Bou283_T
+2010,02,6,676841,Flinders Street Station Underpass,FliS_T
+2010,02,5,676447,Princes Bridge,PriNW_T
+2010,02,1,557650,Bourke Street Mall (North),Bou292_T
+2010,02,13,517041,Flagstaff Station,Wil277_T
+2010,02,16,473198,Australia on Collins,Col270_T
+2010,02,15,453229,State Library,QV_T
+2010,02,17,319189,Collins Place (South),Col15_T
+2013,06,4,991671,Town Hall (West),Swa123_T
+2013,06,3,833312,Melbourne Central,Swa295_T
+2013,06,1,775793,Bourke Street Mall (North),Bou292_T
+2013,06,2,735381,Bourke Street Mall (South),Bou283_T
+2013,06,5,670550,Princes Bridge,PriNW_T
+2013,06,6,575411,Flinders Street Station Underpass,FliS_T
+2013,06,16,494405,Australia on Collins,Col270_T
+2013,06,13,493864,Flagstaff Station,Wil277_T
+2013,06,9,367707,Southern Cross Station,Col700_T
+2013,06,17,287262,Collins Place (South),Col15_T
+2016,05,38,1730658,Flinders St-Swanston St (West),Swa11_T
+2016,05,4,1036787,Town Hall (West),Swa123_T
+2016,05,22,1009353,Flinders St-Elizabeth St (East),Eli274_T
+2016,05,6,1003051,Flinders Street Station Underpass,FliS_T
+2016,05,35,1000634,Southbank,SouthB_T
+2016,05,1,970128,Bourke Street Mall (North),Bou292_T
+2016,05,3,963822,Melbourne Central,Swa295_T
+2016,05,24,929631,Spencer St-Collins St (North),Col620_T
+2016,05,5,799195,Princes Bridge,PriNW_T
+2016,05,32,709200,City Square,CSq_T
+2018,03,35,1552011,Southbank,SouthB_T
+2018,03,41,1543041,Flinders La-Swanston St (West),Swa31
+2018,03,6,1246582,Flinders Street Station Underpass,FliS_T
+2018,03,5,1234106,Princes Bridge,PriNW_T
+2018,03,22,1225208,Flinders St-Elizabeth St (East),Eli274_T
+2018,03,4,1153946,Town Hall (West),Swa123_T
+2018,03,24,1081960,Spencer St-Collins St (North),Col620_T
+2018,03,3,1076732,Melbourne Central,Swa295_T
+2018,03,1,1044253,Bourke Street Mall (North),Bou292_T
+2018,03,28,919971,The Arts Centre,VAC_T
+2009,09,4,1017890,Town Hall (West),Swa123_T
+2009,09,2,836776,Bourke Street Mall (South),Bou283_T
+2009,09,3,780036,Melbourne Central,Swa295_T
+2009,09,6,700836,Flinders Street Station Underpass,FliS_T
+2009,09,5,699272,Princes Bridge,PriNW_T
+2009,09,13,545023,Flagstaff Station,Wil277_T
+2009,09,1,532613,Bourke Street Mall (North),Bou292_T
+2009,09,15,518451,State Library,QV_T
+2009,09,16,481442,Australia on Collins,Col270_T
+2009,09,17,334670,Collins Place (South),Col15_T
+2013,07,4,1089411,Town Hall (West),Swa123_T
+2013,07,3,907766,Melbourne Central,Swa295_T
+2013,07,1,839856,Bourke Street Mall (North),Bou292_T
+2013,07,2,826430,Bourke Street Mall (South),Bou283_T
+2013,07,5,743225,Princes Bridge,PriNW_T
+2013,07,6,629168,Flinders Street Station Underpass,FliS_T
+2013,07,16,564946,Australia on Collins,Col270_T
+2013,07,13,555564,Flagstaff Station,Wil277_T
+2013,07,9,442078,Southern Cross Station,Col700_T
+2013,07,17,330721,Collins Place (South),Col15_T
+2022,07,41,1154246,Flinders La-Swanston St (West),Swa31
+2022,07,35,908920,Southbank,SouthB_T
+2022,07,3,779160,Melbourne Central,Swa295_T
+2022,07,84,716653,Elizabeth St - Flinders St (East) - New footpath,ElFi_T
+2022,07,66,698162,State Library - New,QVN_T
+2022,07,5,628500,Princes Bridge,PriNW_T
+2022,07,47,625502,Melbourne Central-Elizabeth St (East),Eli250_T
+2022,07,25,621363,Melbourne Convention Exhibition Centre,MCEC_T
+2022,07,6,604537,Flinders Street Station Underpass,FliS_T
+2022,07,28,585960,The Arts Centre,VAC_T
+2013,01,4,1113798,Town Hall (West),Swa123_T
+2013,01,3,842286,Melbourne Central,Swa295_T
+2013,01,2,802711,Bourke Street Mall (South),Bou283_T
+2013,01,1,791206,Bourke Street Mall (North),Bou292_T
+2013,01,5,738682,Princes Bridge,PriNW_T
+2013,01,6,655292,Flinders Street Station Underpass,FliS_T
+2013,01,16,501206,Australia on Collins,Col270_T
+2013,01,13,439307,Flagstaff Station,Wil277_T
+2013,01,7,335058,Birrarung Marr,Fed_T
+2013,01,17,302399,Collins Place (South),Col15_T
+2013,12,4,1327894,Town Hall (West),Swa123_T
+2013,12,2,1145625,Bourke Street Mall (South),Bou283_T
+2013,12,1,1141824,Bourke Street Mall (North),Bou292_T
+2013,12,22,1117051,Flinders St-Elizabeth St (East),Eli274_T
+2013,12,3,983912,Melbourne Central,Swa295_T
+2013,12,5,776400,Princes Bridge,PriNW_T
+2013,12,6,689307,Flinders Street Station Underpass,FliS_T
+2013,12,15,621647,State Library,QV_T
+2013,12,28,603502,The Arts Centre,VAC_T
+2013,12,16,601616,Australia on Collins,Col270_T
+2020,11,41,602980,Flinders La-Swanston St (West),Swa31
+2020,11,22,558750,Flinders St-Elizabeth St (East),Eli274_T
+2020,11,1,498611,Bourke Street Mall (North),Bou292_T
+2020,11,4,490630,Town Hall (West),Swa123_T
+2020,11,3,425215,Melbourne Central,Swa295_T
+2020,11,55,393471,Elizabeth St-La Trobe St (East),Eli380_T
+2020,11,47,366156,Melbourne Central-Elizabeth St (East),Eli250_T
+2020,11,5,364502,Princes Bridge,PriNW_T
+2020,11,35,361771,Southbank,SouthB_T
+2020,11,6,324248,Flinders Street Station Underpass,FliS_T
+2012,10,4,1043780,Town Hall (West),Swa123_T
+2012,10,3,906661,Melbourne Central,Swa295_T
+2012,10,6,838925,Flinders Street Station Underpass,FliS_T
+2012,10,1,788582,Bourke Street Mall (North),Bou292_T
+2012,10,2,773389,Bourke Street Mall (South),Bou283_T
+2012,10,5,662185,Princes Bridge,PriNW_T
+2012,10,13,580996,Flagstaff Station,Wil277_T
+2012,10,15,566445,State Library,QV_T
+2012,10,16,524900,Australia on Collins,Col270_T
+2012,10,7,413742,Birrarung Marr,Fed_T
+2014,02,4,1017371,Town Hall (West),Swa123_T
+2014,02,22,992670,Flinders St-Elizabeth St (East),Eli274_T
+2014,02,3,882554,Melbourne Central,Swa295_T
+2014,02,1,787333,Bourke Street Mall (North),Bou292_T
+2014,02,2,713106,Bourke Street Mall (South),Bou283_T
+2014,02,5,696979,Princes Bridge,PriNW_T
+2014,02,24,657325,Spencer St-Collins St (North),Col620_T
+2014,02,15,630463,State Library,QV_T
+2014,02,32,590744,City Square,CSq_T
+2014,02,6,587789,Flinders Street Station Underpass,FliS_T
+2017,12,41,1534446,Flinders La-Swanston St (West),Swa31
+2017,12,35,1496960,Southbank,SouthB_T
+2017,12,4,1264956,Town Hall (West),Swa123_T
+2017,12,6,1196341,Flinders Street Station Underpass,FliS_T
+2017,12,22,1153637,Flinders St-Elizabeth St (East),Eli274_T
+2017,12,1,1136439,Bourke Street Mall (North),Bou292_T
+2017,12,5,1086973,Princes Bridge,PriNW_T
+2017,12,2,1027063,Bourke Street Mall (South),Bou283_T
+2017,12,3,927957,Melbourne Central,Swa295_T
+2017,12,24,911571,Spencer St-Collins St (North),Col620_T
+2013,09,4,1001733,Town Hall (West),Swa123_T
+2013,09,22,979596,Flinders St-Elizabeth St (East),Eli274_T
+2013,09,3,884397,Melbourne Central,Swa295_T
+2013,09,1,755760,Bourke Street Mall (North),Bou292_T
+2013,09,2,745829,Bourke Street Mall (South),Bou283_T
+2013,09,5,701649,Princes Bridge,PriNW_T
+2013,09,24,660224,Spencer St-Collins St (North),Col620_T
+2013,09,15,591823,State Library,QV_T
+2013,09,6,585041,Flinders Street Station Underpass,FliS_T
+2013,09,13,537065,Flagstaff Station,Wil277_T
+2014,04,4,1198193,Town Hall (West),Swa123_T
+2014,04,22,1069421,Flinders St-Elizabeth St (East),Eli274_T
+2014,04,3,1015305,Melbourne Central,Swa295_T
+2014,04,1,902012,Bourke Street Mall (North),Bou292_T
+2014,04,32,866825,City Square,CSq_T
+2014,04,2,845036,Bourke Street Mall (South),Bou283_T
+2014,04,5,777851,Princes Bridge,PriNW_T
+2014,04,15,657197,State Library,QV_T
+2014,04,24,655581,Spencer St-Collins St (North),Col620_T
+2014,04,6,615832,Flinders Street Station Underpass,FliS_T
+2020,01,41,1354171,Flinders La-Swanston St (West),Swa31
+2020,01,22,1290280,Flinders St-Elizabeth St (East),Eli274_T
+2020,01,5,1247383,Princes Bridge,PriNW_T
+2020,01,4,1030896,Town Hall (West),Swa123_T
+2020,01,6,1019459,Flinders Street Station Underpass,FliS_T
+2020,01,24,935880,Spencer St-Collins St (North),Col620_T
+2020,01,35,910977,Southbank,SouthB_T
+2020,01,28,893317,The Arts Centre,VAC_T
+2020,01,1,892048,Bourke Street Mall (North),Bou292_T
+2020,01,25,771333,Melbourne Convention Exhibition Centre,MCEC_T
+2015,08,38,1753217,Flinders St-Swanston St (West),Swa11_T
+2015,08,6,1089369,Flinders Street Station Underpass,FliS_T
+2015,08,4,1071959,Town Hall (West),Swa123_T
+2015,08,3,956631,Melbourne Central,Swa295_T
+2015,08,1,798046,Bourke Street Mall (North),Bou292_T
+2015,08,5,779201,Princes Bridge,PriNW_T
+2015,08,24,777888,Spencer St-Collins St (North),Col620_T
+2015,08,2,733689,Bourke Street Mall (South),Bou283_T
+2015,08,28,656452,The Arts Centre,VAC_T
+2015,08,15,623419,State Library,QV_T
+2017,03,35,1389256,Southbank,SouthB_T
+2017,03,6,1163239,Flinders Street Station Underpass,FliS_T
+2017,03,3,1065189,Melbourne Central,Swa295_T
+2017,03,24,1060384,Spencer St-Collins St (North),Col620_T
+2017,03,1,1033731,Bourke Street Mall (North),Bou292_T
+2017,03,5,1020710,Princes Bridge,PriNW_T
+2017,03,2,757690,Bourke Street Mall (South),Bou283_T
+2017,03,15,719976,State Library,QV_T
+2017,03,13,712181,Flagstaff Station,Wil277_T
+2017,03,53,543269,Collins Street (North),Col254_T
+2017,07,41,1504540,Flinders La-Swanston St (West),Swa31
+2017,07,35,1203955,Southbank,SouthB_T
+2017,07,4,1080143,Town Hall (West),Swa123_T
+2017,07,6,1055075,Flinders Street Station Underpass,FliS_T
+2017,07,1,1005119,Bourke Street Mall (North),Bou292_T
+2017,07,24,996873,Spencer St-Collins St (North),Col620_T
+2017,07,3,963212,Melbourne Central,Swa295_T
+2017,07,28,804272,The Arts Centre,VAC_T
+2017,07,2,742760,Bourke Street Mall (South),Bou283_T
+2017,07,45,669455,Little Collins St-Swanston St (East),Swa148_T
+2017,11,41,1434538,Flinders La-Swanston St (West),Swa31
+2017,11,35,1336592,Southbank,SouthB_T
+2017,11,22,1178237,Flinders St-Elizabeth St (East),Eli274_T
+2017,11,6,1174889,Flinders Street Station Underpass,FliS_T
+2017,11,4,1093601,Town Hall (West),Swa123_T
+2017,11,5,1055953,Princes Bridge,PriNW_T
+2017,11,24,994839,Spencer St-Collins St (North),Col620_T
+2017,11,1,990897,Bourke Street Mall (North),Bou292_T
+2017,11,3,932668,Melbourne Central,Swa295_T
+2017,11,2,804618,Bourke Street Mall (South),Bou283_T
+2016,11,38,1740523,Flinders St-Swanston St (West),Swa11_T
+2016,11,35,1209377,Southbank,SouthB_T
+2016,11,6,1083579,Flinders Street Station Underpass,FliS_T
+2016,11,1,1039800,Bourke Street Mall (North),Bou292_T
+2016,11,5,936075,Princes Bridge,PriNW_T
+2016,11,24,920024,Spencer St-Collins St (North),Col620_T
+2016,11,2,800306,Bourke Street Mall (South),Bou283_T
+2016,11,32,790066,City Square,CSq_T
+2016,11,28,723913,The Arts Centre,VAC_T
+2016,11,15,641582,State Library,QV_T
+2011,10,4,1077629,Town Hall (West),Swa123_T
+2011,10,2,920192,Bourke Street Mall (South),Bou283_T
+2011,10,3,824579,Melbourne Central,Swa295_T
+2011,10,6,817570,Flinders Street Station Underpass,FliS_T
+2011,10,5,617795,Princes Bridge,PriNW_T
+2011,10,16,546879,Australia on Collins,Col270_T
+2011,10,13,543578,Flagstaff Station,Wil277_T
+2011,10,15,449674,State Library,QV_T
+2011,10,17,352954,Collins Place (South),Col15_T
+2011,10,9,281220,Southern Cross Station,Col700_T
+2011,02,4,939189,Town Hall (West),Swa123_T
+2011,02,6,741443,Flinders Street Station Underpass,FliS_T
+2011,02,2,735659,Bourke Street Mall (South),Bou283_T
+2011,02,3,719419,Melbourne Central,Swa295_T
+2011,02,5,541120,Princes Bridge,PriNW_T
+2011,02,13,525537,Flagstaff Station,Wil277_T
+2011,02,16,473519,Australia on Collins,Col270_T
+2011,02,15,468450,State Library,QV_T
+2011,02,17,338868,Collins Place (South),Col15_T
+2011,02,18,267145,Collins Place (North),Col12_T
+2015,07,38,1785263,Flinders St-Swanston St (West),Swa11_T
+2015,07,6,1153654,Flinders Street Station Underpass,FliS_T
+2015,07,4,1116273,Town Hall (West),Swa123_T
+2015,07,22,1072318,Flinders St-Elizabeth St (East),Eli274_T
+2015,07,3,928252,Melbourne Central,Swa295_T
+2015,07,1,854795,Bourke Street Mall (North),Bou292_T
+2015,07,24,815189,Spencer St-Collins St (North),Col620_T
+2015,07,5,791801,Princes Bridge,PriNW_T
+2015,07,2,763194,Bourke Street Mall (South),Bou283_T
+2015,07,32,719197,City Square,CSq_T
+2011,07,4,1111340,Town Hall (West),Swa123_T
+2011,07,2,926239,Bourke Street Mall (South),Bou283_T
+2011,07,3,841408,Melbourne Central,Swa295_T
+2011,07,6,821093,Flinders Street Station Underpass,FliS_T
+2011,07,5,607586,Princes Bridge,PriNW_T
+2011,07,16,561311,Australia on Collins,Col270_T
+2011,07,15,518236,State Library,QV_T
+2011,07,13,501886,Flagstaff Station,Wil277_T
+2011,07,17,342528,Collins Place (South),Col15_T
+2011,07,9,277390,Southern Cross Station,Col700_T
+2014,05,4,1135069,Town Hall (West),Swa123_T
+2014,05,22,1071990,Flinders St-Elizabeth St (East),Eli274_T
+2014,05,3,982321,Melbourne Central,Swa295_T
+2014,05,1,827025,Bourke Street Mall (North),Bou292_T
+2014,05,2,755415,Bourke Street Mall (South),Bou283_T
+2014,05,32,727790,City Square,CSq_T
+2014,05,5,709233,Princes Bridge,PriNW_T
+2014,05,15,646025,State Library,QV_T
+2014,05,6,623711,Flinders Street Station Underpass,FliS_T
+2014,05,28,604451,The Arts Centre,VAC_T
+2018,07,41,1372753,Flinders La-Swanston St (West),Swa31
+2018,07,35,1213328,Southbank,SouthB_T
+2018,07,22,1153935,Flinders St-Elizabeth St (East),Eli274_T
+2018,07,24,1080523,Spencer St-Collins St (North),Col620_T
+2018,07,4,1057816,Town Hall (West),Swa123_T
+2018,07,1,1052863,Bourke Street Mall (North),Bou292_T
+2018,07,6,1002381,Flinders Street Station Underpass,FliS_T
+2018,07,5,965085,Princes Bridge,PriNW_T
+2018,07,3,940135,Melbourne Central,Swa295_T
+2018,07,28,799666,The Arts Centre,VAC_T
+2010,11,4,1050132,Town Hall (West),Swa123_T
+2010,11,2,879738,Bourke Street Mall (South),Bou283_T
+2010,11,6,781536,Flinders Street Station Underpass,FliS_T
+2010,11,3,756614,Melbourne Central,Swa295_T
+2010,11,5,563694,Princes Bridge,PriNW_T
+2010,11,13,533506,Flagstaff Station,Wil277_T
+2010,11,16,526471,Australia on Collins,Col270_T
+2010,11,15,478520,State Library,QV_T
+2010,11,17,362980,Collins Place (South),Col15_T
+2010,11,18,277917,Collins Place (North),Col12_T
+2015,03,38,1966429,Flinders St-Swanston St (West),Swa11_T
+2015,03,6,1223332,Flinders Street Station Underpass,FliS_T
+2015,03,4,1191867,Town Hall (West),Swa123_T
+2015,03,22,1162680,Flinders St-Elizabeth St (East),Eli274_T
+2015,03,3,1077952,Melbourne Central,Swa295_T
+2015,03,5,968980,Princes Bridge,PriNW_T
+2015,03,32,910872,City Square,CSq_T
+2015,03,1,859945,Bourke Street Mall (North),Bou292_T
+2015,03,2,797949,Bourke Street Mall (South),Bou283_T
+2015,03,24,794845,Spencer St-Collins St (North),Col620_T
+2012,01,4,1071523,Town Hall (West),Swa123_T
+2012,01,2,854782,Bourke Street Mall (South),Bou283_T
+2012,01,6,813831,Flinders Street Station Underpass,FliS_T
+2012,01,1,748906,Bourke Street Mall (North),Bou292_T
+2012,01,3,727066,Melbourne Central,Swa295_T
+2012,01,5,631769,Princes Bridge,PriNW_T
+2012,01,16,491698,Australia on Collins,Col270_T
+2012,01,15,437896,State Library,QV_T
+2012,01,13,412936,Flagstaff Station,Wil277_T
+2012,01,7,312135,Birrarung Marr,Fed_T
+2016,02,38,1777979,Flinders St-Swanston St (West),Swa11_T
+2016,02,4,1130229,Town Hall (West),Swa123_T
+2016,02,6,1041783,Flinders Street Station Underpass,FliS_T
+2016,02,22,1034116,Flinders St-Elizabeth St (East),Eli274_T
+2016,02,5,1000371,Princes Bridge,PriNW_T
+2016,02,3,935836,Melbourne Central,Swa295_T
+2016,02,1,920858,Bourke Street Mall (North),Bou292_T
+2016,02,32,898480,City Square,CSq_T
+2016,02,24,881123,Spencer St-Collins St (North),Col620_T
+2016,02,28,777712,The Arts Centre,VAC_T
+2017,08,41,1482257,Flinders La-Swanston St (West),Swa31
+2017,08,35,1084862,Southbank,SouthB_T
+2017,08,6,1040597,Flinders Street Station Underpass,FliS_T
+2017,08,24,1031431,Spencer St-Collins St (North),Col620_T
+2017,08,4,1028463,Town Hall (West),Swa123_T
+2017,08,3,968681,Melbourne Central,Swa295_T
+2017,08,1,941881,Bourke Street Mall (North),Bou292_T
+2017,08,28,714967,The Arts Centre,VAC_T
+2017,08,2,684195,Bourke Street Mall (South),Bou283_T
+2017,08,15,663859,State Library,QV_T
+2011,04,4,1195568,Town Hall (West),Swa123_T
+2011,04,2,972919,Bourke Street Mall (South),Bou283_T
+2011,04,3,897977,Melbourne Central,Swa295_T
+2011,04,6,815530,Flinders Street Station Underpass,FliS_T
+2011,04,5,664347,Princes Bridge,PriNW_T
+2011,04,15,565421,State Library,QV_T
+2011,04,16,548968,Australia on Collins,Col270_T
+2011,04,13,473466,Flagstaff Station,Wil277_T
+2011,04,17,331079,Collins Place (South),Col15_T
+2011,04,18,253992,Collins Place (North),Col12_T
+2021,03,41,909361,Flinders La-Swanston St (West),Swa31
+2021,03,22,676032,Flinders St-Elizabeth St (East),Eli274_T
+2021,03,5,660726,Princes Bridge,PriNW_T
+2021,03,4,650570,Town Hall (West),Swa123_T
+2021,03,1,523660,Bourke Street Mall (North),Bou292_T
+2021,03,6,510400,Flinders Street Station Underpass,FliS_T
+2021,03,55,470084,Elizabeth St-La Trobe St (East),Eli380_T
+2021,03,66,462712,State Library - New,QVN_T
+2021,03,15,462712,State Library,QV_T
+2021,03,28,458441,The Arts Centre,VAC_T
+2012,09,4,993690,Town Hall (West),Swa123_T
+2012,09,3,910455,Melbourne Central,Swa295_T
+2012,09,6,783968,Flinders Street Station Underpass,FliS_T
+2012,09,1,752744,Bourke Street Mall (North),Bou292_T
+2012,09,2,749446,Bourke Street Mall (South),Bou283_T
+2012,09,5,663964,Princes Bridge,PriNW_T
+2012,09,13,496204,Flagstaff Station,Wil277_T
+2012,09,16,491753,Australia on Collins,Col270_T
+2012,09,7,435904,Birrarung Marr,Fed_T
+2012,09,9,329746,Southern Cross Station,Col700_T
+2016,01,38,1844471,Flinders St-Swanston St (West),Swa11_T
+2016,01,4,1159534,Town Hall (West),Swa123_T
+2016,01,22,1046441,Flinders St-Elizabeth St (East),Eli274_T
+2016,01,6,1024338,Flinders Street Station Underpass,FliS_T
+2016,01,5,1013688,Princes Bridge,PriNW_T
+2016,01,3,854232,Melbourne Central,Swa295_T
+2016,01,32,794832,City Square,CSq_T
+2016,01,2,794179,Bourke Street Mall (South),Bou283_T
+2016,01,28,790301,The Arts Centre,VAC_T
+2016,01,1,771448,Bourke Street Mall (North),Bou292_T
+2010,06,4,965356,Town Hall (West),Swa123_T
+2010,06,2,765273,Bourke Street Mall (South),Bou283_T
+2010,06,3,717588,Melbourne Central,Swa295_T
+2010,06,6,670965,Flinders Street Station Underpass,FliS_T
+2010,06,5,612191,Princes Bridge,PriNW_T
+2010,06,13,521372,Flagstaff Station,Wil277_T
+2010,06,1,518089,Bourke Street Mall (North),Bou292_T
+2010,06,16,480399,Australia on Collins,Col270_T
+2010,06,15,439415,State Library,QV_T
+2010,06,17,319880,Collins Place (South),Col15_T
+2020,09,22,276070,Flinders St-Elizabeth St (East),Eli274_T
+2020,09,55,195295,Elizabeth St-La Trobe St (East),Eli380_T
+2020,09,41,161884,Flinders La-Swanston St (West),Swa31
+2020,09,25,155748,Melbourne Convention Exhibition Centre,MCEC_T
+2020,09,35,153717,Southbank,SouthB_T
+2020,09,47,135639,Melbourne Central-Elizabeth St (East),Eli250_T
+2020,09,26,125332,QV Market-Elizabeth St (West),Eli483_T
+2020,09,3,114151,Melbourne Central,Swa295_T
+2020,09,5,112820,Princes Bridge,PriNW_T
+2020,09,4,112765,Town Hall (West),Swa123_T
+2014,09,4,1067446,Town Hall (West),Swa123_T
+2014,09,22,1049304,Flinders St-Elizabeth St (East),Eli274_T
+2014,09,3,943337,Melbourne Central,Swa295_T
+2014,09,1,732849,Bourke Street Mall (North),Bou292_T
+2014,09,2,721921,Bourke Street Mall (South),Bou283_T
+2014,09,24,710906,Spencer St-Collins St (North),Col620_T
+2014,09,5,706978,Princes Bridge,PriNW_T
+2014,09,6,626060,Flinders Street Station Underpass,FliS_T
+2014,09,28,610833,The Arts Centre,VAC_T
+2014,09,15,597154,State Library,QV_T
+2009,08,4,1050461,Town Hall (West),Swa123_T
+2009,08,2,847853,Bourke Street Mall (South),Bou283_T
+2009,08,3,827432,Melbourne Central,Swa295_T
+2009,08,6,721539,Flinders Street Station Underpass,FliS_T
+2009,08,5,700272,Princes Bridge,PriNW_T
+2009,08,1,560625,Bourke Street Mall (North),Bou292_T
+2009,08,13,540355,Flagstaff Station,Wil277_T
+2009,08,15,539908,State Library,QV_T
+2009,08,16,489810,Australia on Collins,Col270_T
+2009,08,17,326793,Collins Place (South),Col15_T
+2021,05,41,824586,Flinders La-Swanston St (West),Swa31
+2021,05,35,701947,Southbank,SouthB_T
+2021,05,4,611918,Town Hall (West),Swa123_T
+2021,05,5,556204,Princes Bridge,PriNW_T
+2021,05,1,529938,Bourke Street Mall (North),Bou292_T
+2021,05,6,504102,Flinders Street Station Underpass,FliS_T
+2021,05,22,498975,Flinders St-Elizabeth St (East),Eli274_T
+2021,05,55,477794,Elizabeth St-La Trobe St (East),Eli380_T
+2021,05,25,461094,Melbourne Convention Exhibition Centre,MCEC_T
+2021,05,66,443760,State Library - New,QVN_T
+2013,03,4,1107832,Town Hall (West),Swa123_T
+2013,03,3,1052612,Melbourne Central,Swa295_T
+2013,03,5,839539,Princes Bridge,PriNW_T
+2013,03,1,832992,Bourke Street Mall (North),Bou292_T
+2013,03,2,779914,Bourke Street Mall (South),Bou283_T
+2013,03,15,678848,State Library,QV_T
+2013,03,6,664573,Flinders Street Station Underpass,FliS_T
+2013,03,16,526565,Australia on Collins,Col270_T
+2013,03,13,517936,Flagstaff Station,Wil277_T
+2013,03,7,370775,Birrarung Marr,Fed_T
+2009,12,4,1198678,Town Hall (West),Swa123_T
+2009,12,2,1022298,Bourke Street Mall (South),Bou283_T
+2009,12,1,841261,Bourke Street Mall (North),Bou292_T
+2009,12,3,795765,Melbourne Central,Swa295_T
+2009,12,6,777770,Flinders Street Station Underpass,FliS_T
+2009,12,5,705360,Princes Bridge,PriNW_T
+2009,12,16,551491,Australia on Collins,Col270_T
+2009,12,13,470939,Flagstaff Station,Wil277_T
+2009,12,15,459247,State Library,QV_T
+2009,12,17,316187,Collins Place (South),Col15_T
+2018,12,35,1520180,Southbank,SouthB_T
+2018,12,4,1225432,Town Hall (West),Swa123_T
+2018,12,1,1147555,Bourke Street Mall (North),Bou292_T
+2018,12,6,1092166,Flinders Street Station Underpass,FliS_T
+2018,12,2,968797,Bourke Street Mall (South),Bou283_T
+2018,12,24,935851,Spencer St-Collins St (North),Col620_T
+2018,12,5,929359,Princes Bridge,PriNW_T
+2018,12,3,858879,Melbourne Central,Swa295_T
+2018,12,47,774632,Melbourne Central-Elizabeth St (East),Eli250_T
+2018,12,45,757379,Little Collins St-Swanston St (East),Swa148_T
+2019,03,22,1355988,Flinders St-Elizabeth St (East),Eli274_T
+2019,03,35,1183184,Southbank,SouthB_T
+2019,03,4,1117448,Town Hall (West),Swa123_T
+2019,03,24,1086273,Spencer St-Collins St (North),Col620_T
+2019,03,6,1080389,Flinders Street Station Underpass,FliS_T
+2019,03,3,1069562,Melbourne Central,Swa295_T
+2019,03,1,1009342,Bourke Street Mall (North),Bou292_T
+2019,03,28,836962,The Arts Centre,VAC_T
+2019,03,5,751351,Princes Bridge,PriNW_T
+2019,03,57,733140,Bourke St Bridge,BouBri_T
+2020,12,41,974529,Flinders La-Swanston St (West),Swa31
+2020,12,4,796734,Town Hall (West),Swa123_T
+2020,12,22,758570,Flinders St-Elizabeth St (East),Eli274_T
+2020,12,5,731645,Princes Bridge,PriNW_T
+2020,12,1,714656,Bourke Street Mall (North),Bou292_T
+2020,12,35,580074,Southbank,SouthB_T
+2020,12,2,512225,Bourke Street Mall (South),Bou283_T
+2020,12,6,494740,Flinders Street Station Underpass,FliS_T
+2020,12,55,479460,Elizabeth St-La Trobe St (East),Eli380_T
+2020,12,47,477188,Melbourne Central-Elizabeth St (East),Eli250_T
+2012,04,4,1262753,Town Hall (West),Swa123_T
+2012,04,3,913595,Melbourne Central,Swa295_T
+2012,04,2,829092,Bourke Street Mall (South),Bou283_T
+2012,04,6,794086,Flinders Street Station Underpass,FliS_T
+2012,04,1,718245,Bourke Street Mall (North),Bou292_T
+2012,04,5,681668,Princes Bridge,PriNW_T
+2012,04,15,599899,State Library,QV_T
+2012,04,16,513475,Australia on Collins,Col270_T
+2012,04,13,471186,Flagstaff Station,Wil277_T
+2012,04,17,315358,Collins Place (South),Col15_T
+2009,06,4,1009857,Town Hall (West),Swa123_T
+2009,06,1,801945,Bourke Street Mall (North),Bou292_T
+2009,06,3,740878,Melbourne Central,Swa295_T
+2009,06,6,674285,Flinders Street Station Underpass,FliS_T
+2009,06,5,635352,Princes Bridge,PriNW_T
+2009,06,2,593036,Bourke Street Mall (South),Bou283_T
+2009,06,13,527632,Flagstaff Station,Wil277_T
+2009,06,16,484893,Australia on Collins,Col270_T
+2009,06,15,466171,State Library,QV_T
+2009,06,17,327694,Collins Place (South),Col15_T
+2009,11,4,1075112,Town Hall (West),Swa123_T
+2009,11,2,819881,Bourke Street Mall (South),Bou283_T
+2009,11,3,793497,Melbourne Central,Swa295_T
+2009,11,6,731875,Flinders Street Station Underpass,FliS_T
+2009,11,1,706073,Bourke Street Mall (North),Bou292_T
+2009,11,5,700342,Princes Bridge,PriNW_T
+2009,11,13,503682,Flagstaff Station,Wil277_T
+2009,11,16,497652,Australia on Collins,Col270_T
+2009,11,15,481941,State Library,QV_T
+2009,11,17,326776,Collins Place (South),Col15_T
+2019,06,22,1250112,Flinders St-Elizabeth St (East),Eli274_T
+2019,06,4,960811,Town Hall (West),Swa123_T
+2019,06,1,954095,Bourke Street Mall (North),Bou292_T
+2019,06,6,944617,Flinders Street Station Underpass,FliS_T
+2019,06,24,895342,Spencer St-Collins St (North),Col620_T
+2019,06,5,879108,Princes Bridge,PriNW_T
+2019,06,3,833350,Melbourne Central,Swa295_T
+2019,06,28,744230,The Arts Centre,VAC_T
+2019,06,35,682976,Southbank,SouthB_T
+2019,06,47,643533,Melbourne Central-Elizabeth St (East),Eli250_T
+2020,03,22,960996,Flinders St-Elizabeth St (East),Eli274_T
+2020,03,35,816192,Southbank,SouthB_T
+2020,03,41,813394,Flinders La-Swanston St (West),Swa31
+2020,03,6,660488,Flinders Street Station Underpass,FliS_T
+2020,03,4,634135,Town Hall (West),Swa123_T
+2020,03,5,595265,Princes Bridge,PriNW_T
+2020,03,24,586391,Spencer St-Collins St (North),Col620_T
+2020,03,1,560956,Bourke Street Mall (North),Bou292_T
+2020,03,3,560572,Melbourne Central,Swa295_T
+2020,03,55,532240,Elizabeth St-La Trobe St (East),Eli380_T
+2012,05,4,1213806,Town Hall (West),Swa123_T
+2012,05,3,879005,Melbourne Central,Swa295_T
+2012,05,6,829807,Flinders Street Station Underpass,FliS_T
+2012,05,2,812254,Bourke Street Mall (South),Bou283_T
+2012,05,1,690695,Bourke Street Mall (North),Bou292_T
+2012,05,13,606867,Flagstaff Station,Wil277_T
+2012,05,15,597685,State Library,QV_T
+2012,05,5,584572,Princes Bridge,PriNW_T
+2012,05,16,511960,Australia on Collins,Col270_T
+2012,05,17,366796,Collins Place (South),Col15_T
+2011,01,4,1074131,Town Hall (West),Swa123_T
+2011,01,2,865293,Bourke Street Mall (South),Bou283_T
+2011,01,6,775410,Flinders Street Station Underpass,FliS_T
+2011,01,3,710075,Melbourne Central,Swa295_T
+2011,01,5,632786,Princes Bridge,PriNW_T
+2011,01,16,496679,Australia on Collins,Col270_T
+2011,01,15,425012,State Library,QV_T
+2011,01,13,417690,Flagstaff Station,Wil277_T
+2011,01,17,314727,Collins Place (South),Col15_T
+2011,01,7,302409,Birrarung Marr,Fed_T
+2012,12,4,1289099,Town Hall (West),Swa123_T
+2012,12,2,1138406,Bourke Street Mall (South),Bou283_T
+2012,12,1,1109541,Bourke Street Mall (North),Bou292_T
+2012,12,3,909836,Melbourne Central,Swa295_T
+2012,12,5,711306,Princes Bridge,PriNW_T
+2012,12,6,704523,Flinders Street Station Underpass,FliS_T
+2012,12,16,573442,Australia on Collins,Col270_T
+2012,12,13,420318,Flagstaff Station,Wil277_T
+2012,12,15,364274,State Library,QV_T
+2012,12,17,287275,Collins Place (South),Col15_T
+2014,06,4,1044960,Town Hall (West),Swa123_T
+2014,06,22,986041,Flinders St-Elizabeth St (East),Eli274_T
+2014,06,3,851433,Melbourne Central,Swa295_T
+2014,06,1,749352,Bourke Street Mall (North),Bou292_T
+2014,06,2,715883,Bourke Street Mall (South),Bou283_T
+2014,06,24,668900,Spencer St-Collins St (North),Col620_T
+2014,06,5,655945,Princes Bridge,PriNW_T
+2014,06,32,619128,City Square,CSq_T
+2014,06,28,571908,The Arts Centre,VAC_T
+2014,06,6,568549,Flinders Street Station Underpass,FliS_T
+2018,01,41,1455498,Flinders La-Swanston St (West),Swa31
+2018,01,35,1439788,Southbank,SouthB_T
+2018,01,5,1199066,Princes Bridge,PriNW_T
+2018,01,22,1153177,Flinders St-Elizabeth St (East),Eli274_T
+2018,01,6,1110076,Flinders Street Station Underpass,FliS_T
+2018,01,4,1084434,Town Hall (West),Swa123_T
+2018,01,28,953696,The Arts Centre,VAC_T
+2018,01,1,892058,Bourke Street Mall (North),Bou292_T
+2018,01,24,891489,Spencer St-Collins St (North),Col620_T
+2018,01,3,808699,Melbourne Central,Swa295_T
+2019,07,22,1356376,Flinders St-Elizabeth St (East),Eli274_T
+2019,07,24,1087198,Spencer St-Collins St (North),Col620_T
+2019,07,4,1042025,Town Hall (West),Swa123_T
+2019,07,6,1030584,Flinders Street Station Underpass,FliS_T
+2019,07,5,1012406,Princes Bridge,PriNW_T
+2019,07,1,895441,Bourke Street Mall (North),Bou292_T
+2019,07,3,888107,Melbourne Central,Swa295_T
+2019,07,28,868490,The Arts Centre,VAC_T
+2019,07,57,814354,Bourke St Bridge,BouBri_T
+2019,07,35,750612,Southbank,SouthB_T
+2020,10,22,357418,Flinders St-Elizabeth St (East),Eli274_T
+2020,10,41,265184,Flinders La-Swanston St (West),Swa31
+2020,10,55,260093,Elizabeth St-La Trobe St (East),Eli380_T
+2020,10,3,200440,Melbourne Central,Swa295_T
+2020,10,4,198010,Town Hall (West),Swa123_T
+2020,10,35,193587,Southbank,SouthB_T
+2020,10,25,193419,Melbourne Convention Exhibition Centre,MCEC_T
+2020,10,47,190966,Melbourne Central-Elizabeth St (East),Eli250_T
+2020,10,5,184081,Princes Bridge,PriNW_T
+2020,10,6,162612,Flinders Street Station Underpass,FliS_T
+2019,04,5,1381018,Princes Bridge,PriNW_T
+2019,04,22,1333821,Flinders St-Elizabeth St (East),Eli274_T
+2019,04,4,1148257,Town Hall (West),Swa123_T
+2019,04,28,1101262,The Arts Centre,VAC_T
+2019,04,35,1019327,Southbank,SouthB_T
+2019,04,3,1014705,Melbourne Central,Swa295_T
+2019,04,1,1005854,Bourke Street Mall (North),Bou292_T
+2019,04,24,964507,Spencer St-Collins St (North),Col620_T
+2019,04,6,953646,Flinders Street Station Underpass,FliS_T
+2019,04,2,695109,Bourke Street Mall (South),Bou283_T
+2010,10,4,1017342,Town Hall (West),Swa123_T
+2010,10,2,819846,Bourke Street Mall (South),Bou283_T
+2010,10,6,767413,Flinders Street Station Underpass,FliS_T
+2010,10,1,630623,Bourke Street Mall (North),Bou292_T
+2010,10,3,618765,Melbourne Central,Swa295_T
+2010,10,5,613103,Princes Bridge,PriNW_T
+2010,10,13,543480,Flagstaff Station,Wil277_T
+2010,10,16,526161,Australia on Collins,Col270_T
+2010,10,15,520247,State Library,QV_T
+2010,10,17,363525,Collins Place (South),Col15_T
+2020,06,22,557724,Flinders St-Elizabeth St (East),Eli274_T
+2020,06,41,482013,Flinders La-Swanston St (West),Swa31
+2020,06,1,424476,Bourke Street Mall (North),Bou292_T
+2020,06,4,394408,Town Hall (West),Swa123_T
+2020,06,55,385350,Elizabeth St-La Trobe St (East),Eli380_T
+2020,06,3,352121,Melbourne Central,Swa295_T
+2020,06,47,302881,Melbourne Central-Elizabeth St (East),Eli250_T
+2020,06,66,277962,State Library - New,QVN_T
+2020,06,15,277962,State Library,QV_T
+2020,06,5,274311,Princes Bridge,PriNW_T
+2013,10,4,1052593,Town Hall (West),Swa123_T
+2013,10,22,1025591,Flinders St-Elizabeth St (East),Eli274_T
+2013,10,3,894565,Melbourne Central,Swa295_T
+2013,10,1,798870,Bourke Street Mall (North),Bou292_T
+2013,10,2,761025,Bourke Street Mall (South),Bou283_T
+2013,10,24,723116,Spencer St-Collins St (North),Col620_T
+2013,10,5,671618,Princes Bridge,PriNW_T
+2013,10,15,630260,State Library,QV_T
+2013,10,6,618492,Flinders Street Station Underpass,FliS_T
+2013,10,13,573646,Flagstaff Station,Wil277_T
+2018,11,35,1319719,Southbank,SouthB_T
+2018,11,22,1185085,Flinders St-Elizabeth St (East),Eli274_T
+2018,11,4,1073426,Town Hall (West),Swa123_T
+2018,11,24,1057705,Spencer St-Collins St (North),Col620_T
+2018,11,1,1036162,Bourke Street Mall (North),Bou292_T
+2018,11,6,1008178,Flinders Street Station Underpass,FliS_T
+2018,11,3,880104,Melbourne Central,Swa295_T
+2018,11,2,773508,Bourke Street Mall (South),Bou283_T
+2018,11,28,710981,The Arts Centre,VAC_T
+2018,11,45,689273,Little Collins St-Swanston St (East),Swa148_T
+2015,11,38,1818857,Flinders St-Swanston St (West),Swa11_T
+2015,11,4,1163968,Town Hall (West),Swa123_T
+2015,11,6,1021637,Flinders Street Station Underpass,FliS_T
+2015,11,3,922027,Melbourne Central,Swa295_T
+2015,11,5,913026,Princes Bridge,PriNW_T
+2015,11,24,856077,Spencer St-Collins St (North),Col620_T
+2015,11,2,851184,Bourke Street Mall (South),Bou283_T
+2015,11,32,797448,City Square,CSq_T
+2015,11,22,759027,Flinders St-Elizabeth St (East),Eli274_T
+2015,11,28,704579,The Arts Centre,VAC_T
+2016,12,38,1857062,Flinders St-Swanston St (West),Swa11_T
+2016,12,35,1474484,Southbank,SouthB_T
+2016,12,1,1248598,Bourke Street Mall (North),Bou292_T
+2016,12,6,1149211,Flinders Street Station Underpass,FliS_T
+2016,12,2,1124133,Bourke Street Mall (South),Bou283_T
+2016,12,5,992642,Princes Bridge,PriNW_T
+2016,12,32,988001,City Square,CSq_T
+2016,12,24,876361,Spencer St-Collins St (North),Col620_T
+2016,12,28,671075,The Arts Centre,VAC_T
+2016,12,53,616792,Collins Street (North),Col254_T
+2022,03,41,1071759,Flinders La-Swanston St (West),Swa31
+2022,03,35,989844,Southbank,SouthB_T
+2022,03,4,826032,Town Hall (West),Swa123_T
+2022,03,5,772113,Princes Bridge,PriNW_T
+2022,03,3,724048,Melbourne Central,Swa295_T
+2022,03,84,661185,Elizabeth St - Flinders St (East) - New footpath,ElFi_T
+2022,03,66,614302,State Library - New,QVN_T
+2022,03,6,607278,Flinders Street Station Underpass,FliS_T
+2022,03,1,570461,Bourke Street Mall (North),Bou292_T
+2022,03,47,523153,Melbourne Central-Elizabeth St (East),Eli250_T
+2021,12,41,1137102,Flinders La-Swanston St (West),Swa31
+2021,12,35,1038217,Southbank,SouthB_T
+2021,12,4,910918,Town Hall (West),Swa123_T
+2021,12,1,773993,Bourke Street Mall (North),Bou292_T
+2021,12,5,724368,Princes Bridge,PriNW_T
+2021,12,3,668351,Melbourne Central,Swa295_T
+2021,12,25,604865,Melbourne Convention Exhibition Centre,MCEC_T
+2021,12,22,584280,Flinders St-Elizabeth St (East),Eli274_T
+2021,12,55,548643,Elizabeth St-La Trobe St (East),Eli380_T
+2021,12,47,533409,Melbourne Central-Elizabeth St (East),Eli250_T
+2016,03,38,1951326,Flinders St-Swanston St (West),Swa11_T
+2016,03,4,1198900,Town Hall (West),Swa123_T
+2016,03,22,1086249,Flinders St-Elizabeth St (East),Eli274_T
+2016,03,6,1081469,Flinders Street Station Underpass,FliS_T
+2016,03,5,1047948,Princes Bridge,PriNW_T
+2016,03,3,1033265,Melbourne Central,Swa295_T
+2016,03,1,990888,Bourke Street Mall (North),Bou292_T
+2016,03,24,904908,Spencer St-Collins St (North),Col620_T
+2016,03,32,869474,City Square,CSq_T
+2016,03,28,788127,The Arts Centre,VAC_T
+2022,06,41,1086437,Flinders La-Swanston St (West),Swa31
+2022,06,35,807946,Southbank,SouthB_T
+2022,06,3,677908,Melbourne Central,Swa295_T
+2022,06,84,656164,Elizabeth St - Flinders St (East) - New footpath,ElFi_T
+2022,06,25,594687,Melbourne Convention Exhibition Centre,MCEC_T
+2022,06,66,584074,State Library - New,QVN_T
+2022,06,6,576756,Flinders Street Station Underpass,FliS_T
+2022,06,5,576741,Princes Bridge,PriNW_T
+2022,06,47,556423,Melbourne Central-Elizabeth St (East),Eli250_T
+2022,06,1,529691,Bourke Street Mall (North),Bou292_T
+2016,06,38,1600637,Flinders St-Swanston St (West),Swa11_T
+2016,06,4,981576,Town Hall (West),Swa123_T
+2016,06,1,964601,Bourke Street Mall (North),Bou292_T
+2016,06,6,944461,Flinders Street Station Underpass,FliS_T
+2016,06,35,936557,Southbank,SouthB_T
+2016,06,24,890224,Spencer St-Collins St (North),Col620_T
+2016,06,3,874207,Melbourne Central,Swa295_T
+2016,06,5,735724,Princes Bridge,PriNW_T
+2016,06,2,704311,Bourke Street Mall (South),Bou283_T
+2016,06,32,612759,City Square,CSq_T
+2018,04,41,1451362,Flinders La-Swanston St (West),Swa31
+2018,04,35,1328318,Southbank,SouthB_T
+2018,04,4,1162057,Town Hall (West),Swa123_T
+2018,04,5,1136327,Princes Bridge,PriNW_T
+2018,04,6,1129458,Flinders Street Station Underpass,FliS_T
+2018,04,22,1123654,Flinders St-Elizabeth St (East),Eli274_T
+2018,04,3,1002792,Melbourne Central,Swa295_T
+2018,04,24,967713,Spencer St-Collins St (North),Col620_T
+2018,04,1,962898,Bourke Street Mall (North),Bou292_T
+2018,04,28,886558,The Arts Centre,VAC_T
+2011,05,4,1053107,Town Hall (West),Swa123_T
+2011,05,2,901472,Bourke Street Mall (South),Bou283_T
+2011,05,3,820245,Melbourne Central,Swa295_T
+2011,05,6,798010,Flinders Street Station Underpass,FliS_T
+2011,05,13,574037,Flagstaff Station,Wil277_T
+2011,05,5,573423,Princes Bridge,PriNW_T
+2011,05,16,523892,Australia on Collins,Col270_T
+2011,05,15,513769,State Library,QV_T
+2011,05,17,368018,Collins Place (South),Col15_T
+2011,05,9,297073,Southern Cross Station,Col700_T
+2010,08,4,1036046,Town Hall (West),Swa123_T
+2010,08,3,781308,Melbourne Central,Swa295_T
+2010,08,2,750070,Bourke Street Mall (South),Bou283_T
+2010,08,6,723723,Flinders Street Station Underpass,FliS_T
+2010,08,5,630601,Princes Bridge,PriNW_T
+2010,08,1,610958,Bourke Street Mall (North),Bou292_T
+2010,08,13,556535,Flagstaff Station,Wil277_T
+2010,08,15,510291,State Library,QV_T
+2010,08,16,506910,Australia on Collins,Col270_T
+2010,08,17,339983,Collins Place (South),Col15_T
+2015,10,38,1820460,Flinders St-Swanston St (West),Swa11_T
+2015,10,4,1100600,Town Hall (West),Swa123_T
+2015,10,6,1048475,Flinders Street Station Underpass,FliS_T
+2015,10,3,960945,Melbourne Central,Swa295_T
+2015,10,5,899311,Princes Bridge,PriNW_T
+2015,10,24,881282,Spencer St-Collins St (North),Col620_T
+2015,10,2,806308,Bourke Street Mall (South),Bou283_T
+2015,10,32,803964,City Square,CSq_T
+2015,10,1,796249,Bourke Street Mall (North),Bou292_T
+2015,10,28,705176,The Arts Centre,VAC_T
+2012,06,4,1139939,Town Hall (West),Swa123_T
+2012,06,3,813134,Melbourne Central,Swa295_T
+2012,06,2,810148,Bourke Street Mall (South),Bou283_T
+2012,06,6,770660,Flinders Street Station Underpass,FliS_T
+2012,06,1,651107,Bourke Street Mall (North),Bou292_T
+2012,06,5,545042,Princes Bridge,PriNW_T
+2012,06,13,504490,Flagstaff Station,Wil277_T
+2012,06,15,501487,State Library,QV_T
+2012,06,16,498005,Australia on Collins,Col270_T
+2012,06,17,320404,Collins Place (South),Col15_T
+2012,07,4,1201272,Town Hall (West),Swa123_T
+2012,07,3,930275,Melbourne Central,Swa295_T
+2012,07,6,840301,Flinders Street Station Underpass,FliS_T
+2012,07,2,815873,Bourke Street Mall (South),Bou283_T
+2012,07,1,770665,Bourke Street Mall (North),Bou292_T
+2012,07,5,641997,Princes Bridge,PriNW_T
+2012,07,15,596158,State Library,QV_T
+2012,07,16,547868,Australia on Collins,Col270_T
+2012,07,13,527519,Flagstaff Station,Wil277_T
+2012,07,9,354391,Southern Cross Station,Col700_T
+2019,12,41,1470360,Flinders La-Swanston St (West),Swa31
+2019,12,22,1346535,Flinders St-Elizabeth St (East),Eli274_T
+2019,12,4,1244392,Town Hall (West),Swa123_T
+2019,12,1,1192463,Bourke Street Mall (North),Bou292_T
+2019,12,6,1187116,Flinders Street Station Underpass,FliS_T
+2019,12,5,1068849,Princes Bridge,PriNW_T
+2019,12,35,977637,Southbank,SouthB_T
+2019,12,24,958089,Spencer St-Collins St (North),Col620_T
+2019,12,2,927155,Bourke Street Mall (South),Bou283_T
+2019,12,3,911297,Melbourne Central,Swa295_T
+2020,05,22,445791,Flinders St-Elizabeth St (East),Eli274_T
+2020,05,55,299323,Elizabeth St-La Trobe St (East),Eli380_T
+2020,05,41,284010,Flinders La-Swanston St (West),Swa31
+2020,05,1,269797,Bourke Street Mall (North),Bou292_T
+2020,05,4,245937,Town Hall (West),Swa123_T
+2020,05,35,240025,Southbank,SouthB_T
+2020,05,3,221395,Melbourne Central,Swa295_T
+2020,05,47,212147,Melbourne Central-Elizabeth St (East),Eli250_T
+2020,05,24,210379,Spencer St-Collins St (North),Col620_T
+2020,05,6,190959,Flinders Street Station Underpass,FliS_T
+2010,05,4,1043343,Town Hall (West),Swa123_T
+2010,05,2,794259,Bourke Street Mall (South),Bou283_T
+2010,05,3,787414,Melbourne Central,Swa295_T
+2010,05,6,718316,Flinders Street Station Underpass,FliS_T
+2010,05,5,665106,Princes Bridge,PriNW_T
+2010,05,1,570325,Bourke Street Mall (North),Bou292_T
+2010,05,13,539936,Flagstaff Station,Wil277_T
+2010,05,15,523839,State Library,QV_T
+2010,05,16,485445,Australia on Collins,Col270_T
+2010,05,17,345787,Collins Place (South),Col15_T
+2015,06,38,1727424,Flinders St-Swanston St (West),Swa11_T
+2015,06,4,1055767,Town Hall (West),Swa123_T
+2015,06,22,993804,Flinders St-Elizabeth St (East),Eli274_T
+2015,06,6,934698,Flinders Street Station Underpass,FliS_T
+2015,06,3,871822,Melbourne Central,Swa295_T
+2015,06,5,865442,Princes Bridge,PriNW_T
+2015,06,1,785631,Bourke Street Mall (North),Bou292_T
+2015,06,24,739170,Spencer St-Collins St (North),Col620_T
+2015,06,2,709853,Bourke Street Mall (South),Bou283_T
+2015,06,28,662994,The Arts Centre,VAC_T
+2022,04,41,1172518,Flinders La-Swanston St (West),Swa31
+2022,04,35,1055102,Southbank,SouthB_T
+2022,04,4,1030598,Town Hall (West),Swa123_T
+2022,04,5,818640,Princes Bridge,PriNW_T
+2022,04,3,769096,Melbourne Central,Swa295_T
+2022,04,84,697132,Elizabeth St - Flinders St (East) - New footpath,ElFi_T
+2022,04,66,638649,State Library - New,QVN_T
+2022,04,6,636340,Flinders Street Station Underpass,FliS_T
+2022,04,25,626553,Melbourne Convention Exhibition Centre,MCEC_T
+2022,04,1,621172,Bourke Street Mall (North),Bou292_T
+2018,05,41,1338695,Flinders La-Swanston St (West),Swa31
+2018,05,35,1134039,Southbank,SouthB_T
+2018,05,22,1094188,Flinders St-Elizabeth St (East),Eli274_T
+2018,05,24,1069017,Spencer St-Collins St (North),Col620_T
+2018,05,4,1033314,Town Hall (West),Swa123_T
+2018,05,6,982157,Flinders Street Station Underpass,FliS_T
+2018,05,1,975341,Bourke Street Mall (North),Bou292_T
+2018,05,3,962540,Melbourne Central,Swa295_T
+2018,05,5,850172,Princes Bridge,PriNW_T
+2018,05,47,731234,Melbourne Central-Elizabeth St (East),Eli250_T
+2014,07,22,1060808,Flinders St-Elizabeth St (East),Eli274_T
+2014,07,3,937819,Melbourne Central,Swa295_T
+2014,07,4,836833,Town Hall (West),Swa123_T
+2014,07,1,800875,Bourke Street Mall (North),Bou292_T
+2014,07,2,773179,Bourke Street Mall (South),Bou283_T
+2014,07,5,724269,Princes Bridge,PriNW_T
+2014,07,32,702447,City Square,CSq_T
+2014,07,24,647752,Spencer St-Collins St (North),Col620_T
+2014,07,6,629226,Flinders Street Station Underpass,FliS_T
+2014,07,28,620888,The Arts Centre,VAC_T
+2022,08,41,1177019,Flinders La-Swanston St (West),Swa31
+2022,08,35,820091,Southbank,SouthB_T
+2022,08,3,756552,Melbourne Central,Swa295_T
+2022,08,84,688047,Elizabeth St - Flinders St (East) - New footpath,ElFi_T
+2022,08,66,673109,State Library - New,QVN_T
+2022,08,6,595411,Flinders Street Station Underpass,FliS_T
+2022,08,1,569515,Bourke Street Mall (North),Bou292_T
+2022,08,47,569053,Melbourne Central-Elizabeth St (East),Eli250_T
+2022,08,24,562605,Spencer St-Collins St (North),Col620_T
+2022,08,5,556840,Princes Bridge,PriNW_T
+2010,07,4,1104454,Town Hall (West),Swa123_T
+2010,07,3,825843,Melbourne Central,Swa295_T
+2010,07,2,807012,Bourke Street Mall (South),Bou283_T
+2010,07,6,755116,Flinders Street Station Underpass,FliS_T
+2010,07,5,688388,Princes Bridge,PriNW_T
+2010,07,1,615352,Bourke Street Mall (North),Bou292_T
+2010,07,16,551681,Australia on Collins,Col270_T
+2010,07,13,529577,Flagstaff Station,Wil277_T
+2010,07,15,520724,State Library,QV_T
+2010,07,17,348096,Collins Place (South),Col15_T
+2017,05,35,1157203,Southbank,SouthB_T
+2017,05,22,1070699,Flinders St-Elizabeth St (East),Eli274_T
+2017,05,6,1058039,Flinders Street Station Underpass,FliS_T
+2017,05,24,1023285,Spencer St-Collins St (North),Col620_T
+2017,05,1,978905,Bourke Street Mall (North),Bou292_T
+2017,05,5,956815,Princes Bridge,PriNW_T
+2017,05,3,922636,Melbourne Central,Swa295_T
+2017,05,28,845480,The Arts Centre,VAC_T
+2017,05,2,693992,Bourke Street Mall (South),Bou283_T
+2017,05,15,651078,State Library,QV_T
+2014,12,4,1419535,Town Hall (West),Swa123_T
+2014,12,22,1163576,Flinders St-Elizabeth St (East),Eli274_T
+2014,12,2,1144588,Bourke Street Mall (South),Bou283_T
+2014,12,32,1023518,City Square,CSq_T
+2014,12,3,972818,Melbourne Central,Swa295_T
+2014,12,5,804383,Princes Bridge,PriNW_T
+2014,12,6,750082,Flinders Street Station Underpass,FliS_T
+2014,12,24,666334,Spencer St-Collins St (North),Col620_T
+2014,12,28,617330,The Arts Centre,VAC_T
+2014,12,15,594606,State Library,QV_T
+2021,01,41,746069,Flinders La-Swanston St (West),Swa31
+2021,01,5,657882,Princes Bridge,PriNW_T
+2021,01,22,639360,Flinders St-Elizabeth St (East),Eli274_T
+2021,01,4,558664,Town Hall (West),Swa123_T
+2021,01,1,459859,Bourke Street Mall (North),Bou292_T
+2021,01,35,433834,Southbank,SouthB_T
+2021,01,55,425889,Elizabeth St-La Trobe St (East),Eli380_T
+2021,01,6,412406,Flinders Street Station Underpass,FliS_T
+2021,01,28,407448,The Arts Centre,VAC_T
+2021,01,47,361790,Melbourne Central-Elizabeth St (East),Eli250_T
+2022,05,41,1002948,Flinders La-Swanston St (West),Swa31
+2022,05,35,828999,Southbank,SouthB_T
+2022,05,3,691828,Melbourne Central,Swa295_T
+2022,05,84,649271,Elizabeth St - Flinders St (East) - New footpath,ElFi_T
+2022,05,66,607245,State Library - New,QVN_T
+2022,05,6,585139,Flinders Street Station Underpass,FliS_T
+2022,05,5,583020,Princes Bridge,PriNW_T
+2022,05,25,574844,Melbourne Convention Exhibition Centre,MCEC_T
+2022,05,47,537508,Melbourne Central-Elizabeth St (East),Eli250_T
+2022,05,1,531617,Bourke Street Mall (North),Bou292_T
+2009,05,4,1095125,Town Hall (West),Swa123_T
+2009,05,1,842470,Bourke Street Mall (North),Bou292_T
+2009,05,6,729966,Flinders Street Station Underpass,FliS_T
+2009,05,5,711896,Princes Bridge,PriNW_T
+2009,05,2,628472,Bourke Street Mall (South),Bou283_T
+2009,05,15,570028,State Library,QV_T
+2009,05,13,538822,Flagstaff Station,Wil277_T
+2009,05,16,521101,Australia on Collins,Col270_T
+2009,05,3,347366,Melbourne Central,Swa295_T
+2009,05,17,337352,Collins Place (South),Col15_T
+2014,10,4,1136206,Town Hall (West),Swa123_T
+2014,10,22,1096044,Flinders St-Elizabeth St (East),Eli274_T
+2014,10,3,997779,Melbourne Central,Swa295_T
+2014,10,1,798950,Bourke Street Mall (North),Bou292_T
+2014,10,2,788991,Bourke Street Mall (South),Bou283_T
+2014,10,24,764954,Spencer St-Collins St (North),Col620_T
+2014,10,32,755152,City Square,CSq_T
+2014,10,5,753886,Princes Bridge,PriNW_T
+2014,10,6,687763,Flinders Street Station Underpass,FliS_T
+2014,10,15,628859,State Library,QV_T
+2011,08,4,1055793,Town Hall (West),Swa123_T
+2011,08,2,852134,Bourke Street Mall (South),Bou283_T
+2011,08,3,841317,Melbourne Central,Swa295_T
+2011,08,6,815374,Flinders Street Station Underpass,FliS_T
+2011,08,5,605924,Princes Bridge,PriNW_T
+2011,08,13,584537,Flagstaff Station,Wil277_T
+2011,08,15,547563,State Library,QV_T
+2011,08,16,535239,Australia on Collins,Col270_T
+2011,08,17,364954,Collins Place (South),Col15_T
+2011,08,9,299918,Southern Cross Station,Col700_T
+2009,10,4,1058684,Town Hall (West),Swa123_T
+2009,10,2,866911,Bourke Street Mall (South),Bou283_T
+2009,10,6,748989,Flinders Street Station Underpass,FliS_T
+2009,10,5,725048,Princes Bridge,PriNW_T
+2009,10,3,724329,Melbourne Central,Swa295_T
+2009,10,1,568757,Bourke Street Mall (North),Bou292_T
+2009,10,15,560199,State Library,QV_T
+2009,10,13,551139,Flagstaff Station,Wil277_T
+2009,10,16,511023,Australia on Collins,Col270_T
+2009,10,17,349472,Collins Place (South),Col15_T
+2017,04,35,1308507,Southbank,SouthB_T
+2017,04,6,1012907,Flinders Street Station Underpass,FliS_T
+2017,04,1,997482,Bourke Street Mall (North),Bou292_T
+2017,04,3,987618,Melbourne Central,Swa295_T
+2017,04,5,977749,Princes Bridge,PriNW_T
+2017,04,22,969972,Flinders St-Elizabeth St (East),Eli274_T
+2017,04,24,871082,Spencer St-Collins St (North),Col620_T
+2017,04,2,760434,Bourke Street Mall (South),Bou283_T
+2017,04,28,743788,The Arts Centre,VAC_T
+2017,04,15,654330,State Library,QV_T
+2016,04,38,1900791,Flinders St-Swanston St (West),Swa11_T
+2016,04,4,1187663,Town Hall (West),Swa123_T
+2016,04,6,1051200,Flinders Street Station Underpass,FliS_T
+2016,04,22,1041483,Flinders St-Elizabeth St (East),Eli274_T
+2016,04,1,1027597,Bourke Street Mall (North),Bou292_T
+2016,04,5,1025524,Princes Bridge,PriNW_T
+2016,04,3,975817,Melbourne Central,Swa295_T
+2016,04,32,899690,City Square,CSq_T
+2016,04,24,898025,Spencer St-Collins St (North),Col620_T
+2016,04,28,821361,The Arts Centre,VAC_T
+2018,10,35,1376487,Southbank,SouthB_T
+2018,10,22,1232548,Flinders St-Elizabeth St (East),Eli274_T
+2018,10,6,1106982,Flinders Street Station Underpass,FliS_T
+2018,10,24,1092460,Spencer St-Collins St (North),Col620_T
+2018,10,4,1071017,Town Hall (West),Swa123_T
+2018,10,1,1014422,Bourke Street Mall (North),Bou292_T
+2018,10,57,808879,Bourke St Bridge,BouBri_T
+2018,10,28,767102,The Arts Centre,VAC_T
+2018,10,47,750189,Melbourne Central-Elizabeth St (East),Eli250_T
+2018,10,2,745256,Bourke Street Mall (South),Bou283_T
+2014,01,4,1100135,Town Hall (West),Swa123_T
+2014,01,22,1064733,Flinders St-Elizabeth St (East),Eli274_T
+2014,01,3,844635,Melbourne Central,Swa295_T
+2014,01,1,798262,Bourke Street Mall (North),Bou292_T
+2014,01,2,795386,Bourke Street Mall (South),Bou283_T
+2014,01,5,752408,Princes Bridge,PriNW_T
+2014,01,32,709047,City Square,CSq_T
+2014,01,6,633265,Flinders Street Station Underpass,FliS_T
+2014,01,28,606283,The Arts Centre,VAC_T
+2014,01,24,603608,Spencer St-Collins St (North),Col620_T
+2016,10,38,1737392,Flinders St-Swanston St (West),Swa11_T
+2016,10,35,1137061,Southbank,SouthB_T
+2016,10,6,1025030,Flinders Street Station Underpass,FliS_T
+2016,10,1,992592,Bourke Street Mall (North),Bou292_T
+2016,10,24,918917,Spencer St-Collins St (North),Col620_T
+2016,10,5,853612,Princes Bridge,PriNW_T
+2016,10,2,749275,Bourke Street Mall (South),Bou283_T
+2016,10,32,704322,City Square,CSq_T
+2016,10,28,645213,The Arts Centre,VAC_T
+2016,10,15,618886,State Library,QV_T
+2017,09,41,1329334,Flinders La-Swanston St (West),Swa31
+2017,09,35,1134351,Southbank,SouthB_T
+2017,09,6,1017160,Flinders Street Station Underpass,FliS_T
+2017,09,4,994995,Town Hall (West),Swa123_T
+2017,09,24,943961,Spencer St-Collins St (North),Col620_T
+2017,09,1,937740,Bourke Street Mall (North),Bou292_T
+2017,09,3,929795,Melbourne Central,Swa295_T
+2017,09,28,771848,The Arts Centre,VAC_T
+2017,09,2,699499,Bourke Street Mall (South),Bou283_T
+2017,09,47,690642,Melbourne Central-Elizabeth St (East),Eli250_T
+2015,05,38,1775415,Flinders St-Swanston St (West),Swa11_T
+2015,05,6,1116699,Flinders Street Station Underpass,FliS_T
+2015,05,4,1083577,Town Hall (West),Swa123_T
+2015,05,22,1064189,Flinders St-Elizabeth St (East),Eli274_T
+2015,05,3,947615,Melbourne Central,Swa295_T
+2015,05,1,805145,Bourke Street Mall (North),Bou292_T
+2015,05,5,783172,Princes Bridge,PriNW_T
+2015,05,24,769928,Spencer St-Collins St (North),Col620_T
+2015,05,32,733911,City Square,CSq_T
+2015,05,2,721904,Bourke Street Mall (South),Bou283_T
+2012,08,4,1024240,Town Hall (West),Swa123_T
+2012,08,3,934718,Melbourne Central,Swa295_T
+2012,08,6,820645,Flinders Street Station Underpass,FliS_T
+2012,08,1,760213,Bourke Street Mall (North),Bou292_T
+2012,08,2,755215,Bourke Street Mall (South),Bou283_T
+2012,08,15,641124,State Library,QV_T
+2012,08,5,640436,Princes Bridge,PriNW_T
+2012,08,13,576476,Flagstaff Station,Wil277_T
+2012,08,16,519405,Australia on Collins,Col270_T
+2012,08,9,366346,Southern Cross Station,Col700_T
+2015,01,38,1738953,Flinders St-Swanston St (West),Swa11_T
+2015,01,4,1154347,Town Hall (West),Swa123_T
+2015,01,22,1113193,Flinders St-Elizabeth St (East),Eli274_T
+2015,01,5,859144,Princes Bridge,PriNW_T
+2015,01,3,838951,Melbourne Central,Swa295_T
+2015,01,2,794963,Bourke Street Mall (South),Bou283_T
+2015,01,32,774231,City Square,CSq_T
+2015,01,6,694347,Flinders Street Station Underpass,FliS_T
+2015,01,24,619121,Spencer St-Collins St (North),Col620_T
+2015,01,28,591321,The Arts Centre,VAC_T
+2010,01,4,1046480,Town Hall (West),Swa123_T
+2010,01,2,780024,Bourke Street Mall (South),Bou283_T
+2010,01,5,705279,Princes Bridge,PriNW_T
+2010,01,3,703179,Melbourne Central,Swa295_T
+2010,01,6,689157,Flinders Street Station Underpass,FliS_T
+2010,01,1,582056,Bourke Street Mall (North),Bou292_T
+2010,01,16,463533,Australia on Collins,Col270_T
+2010,01,15,407403,State Library,QV_T
+2010,01,13,390248,Flagstaff Station,Wil277_T
+2010,01,17,266250,Collins Place (South),Col15_T
+2019,02,35,1062057,Southbank,SouthB_T
+2019,02,6,1028553,Flinders Street Station Underpass,FliS_T
+2019,02,24,993208,Spencer St-Collins St (North),Col620_T
+2019,02,4,969427,Town Hall (West),Swa123_T
+2019,02,1,881310,Bourke Street Mall (North),Bou292_T
+2019,02,29,710020,St Kilda Rd-Alexandra Gardens,AG_T
+2019,02,57,686229,Bourke St Bridge,BouBri_T
+2019,02,28,681857,The Arts Centre,VAC_T
+2019,02,47,662439,Melbourne Central-Elizabeth St (East),Eli250_T
+2019,02,22,645261,Flinders St-Elizabeth St (East),Eli274_T
+2022,02,41,786709,Flinders La-Swanston St (West),Swa31
+2022,02,35,713303,Southbank,SouthB_T
+2022,02,4,573847,Town Hall (West),Swa123_T
+2022,02,5,559468,Princes Bridge,PriNW_T
+2022,02,3,545816,Melbourne Central,Swa295_T
+2022,02,84,491831,Elizabeth St - Flinders St (East) - New footpath,ElFi_T
+2022,02,1,471266,Bourke Street Mall (North),Bou292_T
+2022,02,66,469942,State Library - New,QVN_T
+2022,02,6,435167,Flinders Street Station Underpass,FliS_T
+2022,02,25,423117,Melbourne Convention Exhibition Centre,MCEC_T
+2016,07,38,1811931,Flinders St-Swanston St (West),Swa11_T
+2016,07,35,1198862,Southbank,SouthB_T
+2016,07,4,1100423,Town Hall (West),Swa123_T
+2016,07,1,1043822,Bourke Street Mall (North),Bou292_T
+2016,07,3,1034508,Melbourne Central,Swa295_T
+2016,07,6,1027802,Flinders Street Station Underpass,FliS_T
+2016,07,24,918993,Spencer St-Collins St (North),Col620_T
+2016,07,5,917175,Princes Bridge,PriNW_T
+2016,07,32,770654,City Square,CSq_T
+2016,07,2,760530,Bourke Street Mall (South),Bou283_T
+2021,10,35,402560,Southbank,SouthB_T
+2021,10,22,398318,Flinders St-Elizabeth St (East),Eli274_T
+2021,10,55,306600,Elizabeth St-La Trobe St (East),Eli380_T
+2021,10,25,294335,Melbourne Convention Exhibition Centre,MCEC_T
+2021,10,4,277236,Town Hall (West),Swa123_T
+2021,10,41,264950,Flinders La-Swanston St (West),Swa31
+2021,10,3,256758,Melbourne Central,Swa295_T
+2021,10,66,239090,State Library - New,QVN_T
+2021,10,15,239090,State Library,QV_T
+2021,10,47,223689,Melbourne Central-Elizabeth St (East),Eli250_T
+2012,03,4,1337313,Town Hall (West),Swa123_T
+2012,03,3,963082,Melbourne Central,Swa295_T
+2012,03,2,892089,Bourke Street Mall (South),Bou283_T
+2012,03,6,886703,Flinders Street Station Underpass,FliS_T
+2012,03,5,754918,Princes Bridge,PriNW_T
+2012,03,1,751873,Bourke Street Mall (North),Bou292_T
+2012,03,15,670004,State Library,QV_T
+2012,03,13,569596,Flagstaff Station,Wil277_T
+2012,03,16,550606,Australia on Collins,Col270_T
+2012,03,7,401500,Birrarung Marr,Fed_T
+2018,09,41,1262328,Flinders La-Swanston St (West),Swa31
+2018,09,35,1232917,Southbank,SouthB_T
+2018,09,22,1117157,Flinders St-Elizabeth St (East),Eli274_T
+2018,09,4,1001739,Town Hall (West),Swa123_T
+2018,09,5,997023,Princes Bridge,PriNW_T
+2018,09,6,961365,Flinders Street Station Underpass,FliS_T
+2018,09,1,954591,Bourke Street Mall (North),Bou292_T
+2018,09,24,940607,Spencer St-Collins St (North),Col620_T
+2018,09,3,907065,Melbourne Central,Swa295_T
+2018,09,28,827217,The Arts Centre,VAC_T
+2011,12,4,1260831,Town Hall (West),Swa123_T
+2011,12,2,1227674,Bourke Street Mall (South),Bou283_T
+2011,12,6,900461,Flinders Street Station Underpass,FliS_T
+2011,12,3,852903,Melbourne Central,Swa295_T
+2011,12,5,649306,Princes Bridge,PriNW_T
+2011,12,16,595553,Australia on Collins,Col270_T
+2011,12,15,511898,State Library,QV_T
+2011,12,13,450369,Flagstaff Station,Wil277_T
+2011,12,1,443595,Bourke Street Mall (North),Bou292_T
+2011,12,17,314911,Collins Place (South),Col15_T
+2019,08,22,1359268,Flinders St-Elizabeth St (East),Eli274_T
+2019,08,24,1101164,Spencer St-Collins St (North),Col620_T
+2019,08,4,1064689,Town Hall (West),Swa123_T
+2019,08,6,1051024,Flinders Street Station Underpass,FliS_T
+2019,08,3,981893,Melbourne Central,Swa295_T
+2019,08,5,963378,Princes Bridge,PriNW_T
+2019,08,60,961210,Flinders La - Swanston St (West) Temporary,Swa31T_T
+2019,08,57,858475,Bourke St Bridge,BouBri_T
+2019,08,1,838069,Bourke Street Mall (North),Bou292_T
+2019,08,28,815103,The Arts Centre,VAC_T
+2015,12,38,1931228,Flinders St-Swanston St (West),Swa11_T
+2015,12,4,1407202,Town Hall (West),Swa123_T
+2015,12,2,1176202,Bourke Street Mall (South),Bou283_T
+2015,12,6,1135071,Flinders Street Station Underpass,FliS_T
+2015,12,32,1060047,City Square,CSq_T
+2015,12,22,1005259,Flinders St-Elizabeth St (East),Eli274_T
+2015,12,5,949329,Princes Bridge,PriNW_T
+2015,12,3,945321,Melbourne Central,Swa295_T
+2015,12,24,840567,Spencer St-Collins St (North),Col620_T
+2015,12,1,728157,Bourke Street Mall (North),Bou292_T
+2021,04,41,1005610,Flinders La-Swanston St (West),Swa31
+2021,04,5,759926,Princes Bridge,PriNW_T
+2021,04,4,743653,Town Hall (West),Swa123_T
+2021,04,22,664671,Flinders St-Elizabeth St (East),Eli274_T
+2021,04,1,612164,Bourke Street Mall (North),Bou292_T
+2021,04,6,564776,Flinders Street Station Underpass,FliS_T
+2021,04,28,563047,The Arts Centre,VAC_T
+2021,04,55,510336,Elizabeth St-La Trobe St (East),Eli380_T
+2021,04,15,503175,State Library,QV_T
+2021,04,66,503175,State Library - New,QVN_T
+2015,04,38,1804321,Flinders St-Swanston St (West),Swa11_T
+2015,04,4,1158730,Town Hall (West),Swa123_T
+2015,04,6,1111253,Flinders Street Station Underpass,FliS_T
+2015,04,22,1058893,Flinders St-Elizabeth St (East),Eli274_T
+2015,04,3,1005451,Melbourne Central,Swa295_T
+2015,04,32,893646,City Square,CSq_T
+2015,04,5,873302,Princes Bridge,PriNW_T
+2015,04,1,834227,Bourke Street Mall (North),Bou292_T
+2015,04,2,762652,Bourke Street Mall (South),Bou283_T
+2015,04,24,727776,Spencer St-Collins St (North),Col620_T
+2018,08,41,1342688,Flinders La-Swanston St (West),Swa31
+2018,08,35,1164656,Southbank,SouthB_T
+2018,08,22,1163597,Flinders St-Elizabeth St (East),Eli274_T
+2018,08,24,1074691,Spencer St-Collins St (North),Col620_T
+2018,08,4,1034464,Town Hall (West),Swa123_T
+2018,08,1,997765,Bourke Street Mall (North),Bou292_T
+2018,08,3,971272,Melbourne Central,Swa295_T
+2018,08,5,928151,Princes Bridge,PriNW_T
+2018,08,28,794830,The Arts Centre,VAC_T
+2018,08,47,735170,Melbourne Central-Elizabeth St (East),Eli250_T
+2019,05,22,1337425,Flinders St-Elizabeth St (East),Eli274_T
+2019,05,24,1098166,Spencer St-Collins St (North),Col620_T
+2019,05,6,1040433,Flinders Street Station Underpass,FliS_T
+2019,05,4,1008211,Town Hall (West),Swa123_T
+2019,05,1,979720,Bourke Street Mall (North),Bou292_T
+2019,05,5,958937,Princes Bridge,PriNW_T
+2019,05,3,892013,Melbourne Central,Swa295_T
+2019,05,35,799405,Southbank,SouthB_T
+2019,05,28,728549,The Arts Centre,VAC_T
+2019,05,47,675960,Melbourne Central-Elizabeth St (East),Eli250_T
+2016,09,38,1735719,Flinders St-Swanston St (West),Swa11_T
+2016,09,35,1127884,Southbank,SouthB_T
+2016,09,4,1047727,Town Hall (West),Swa123_T
+2016,09,6,994761,Flinders Street Station Underpass,FliS_T
+2016,09,1,986772,Bourke Street Mall (North),Bou292_T
+2016,09,3,964707,Melbourne Central,Swa295_T
+2016,09,24,894769,Spencer St-Collins St (North),Col620_T
+2016,09,5,866167,Princes Bridge,PriNW_T
+2016,09,2,726441,Bourke Street Mall (South),Bou283_T
+2016,09,32,705794,City Square,CSq_T
+2013,08,4,1058173,Town Hall (West),Swa123_T
+2013,08,3,957645,Melbourne Central,Swa295_T
+2013,08,1,817304,Bourke Street Mall (North),Bou292_T
+2013,08,2,772946,Bourke Street Mall (South),Bou283_T
+2013,08,5,733894,Princes Bridge,PriNW_T
+2013,08,6,606158,Flinders Street Station Underpass,FliS_T
+2013,08,13,569941,Flagstaff Station,Wil277_T
+2013,08,16,544854,Australia on Collins,Col270_T
+2013,08,9,387562,Southern Cross Station,Col700_T
+2013,08,17,321346,Collins Place (South),Col15_T
+2014,08,22,1059926,Flinders St-Elizabeth St (East),Eli274_T
+2014,08,3,1033709,Melbourne Central,Swa295_T
+2014,08,4,900157,Town Hall (West),Swa123_T
+2014,08,1,750077,Bourke Street Mall (North),Bou292_T
+2014,08,5,730823,Princes Bridge,PriNW_T
+2014,08,2,721774,Bourke Street Mall (South),Bou283_T
+2014,08,24,715768,Spencer St-Collins St (North),Col620_T
+2014,08,32,705843,City Square,CSq_T
+2014,08,15,645445,State Library,QV_T
+2014,08,28,626033,The Arts Centre,VAC_T
+2015,02,38,1645443,Flinders St-Swanston St (West),Swa11_T
+2015,02,4,1074216,Town Hall (West),Swa123_T
+2015,02,22,1045406,Flinders St-Elizabeth St (East),Eli274_T
+2015,02,3,858384,Melbourne Central,Swa295_T
+2015,02,5,836623,Princes Bridge,PriNW_T
+2015,02,6,836508,Flinders Street Station Underpass,FliS_T
+2015,02,32,781262,City Square,CSq_T
+2015,02,24,709773,Spencer St-Collins St (North),Col620_T
+2015,02,2,705162,Bourke Street Mall (South),Bou283_T
+2015,02,28,688364,The Arts Centre,VAC_T
+2018,02,35,1369333,Southbank,SouthB_T
+2018,02,41,1358989,Flinders La-Swanston St (West),Swa31
+2018,02,6,1145147,Flinders Street Station Underpass,FliS_T
+2018,02,22,1103283,Flinders St-Elizabeth St (East),Eli274_T
+2018,02,5,1102898,Princes Bridge,PriNW_T
+2018,02,4,1035079,Town Hall (West),Swa123_T
+2018,02,24,953082,Spencer St-Collins St (North),Col620_T
+2018,02,1,908056,Bourke Street Mall (North),Bou292_T
+2018,02,3,892607,Melbourne Central,Swa295_T
+2018,02,28,850372,The Arts Centre,VAC_T
+2019,01,35,1395117,Southbank,SouthB_T
+2019,01,4,1035715,Town Hall (West),Swa123_T
+2019,01,6,1015331,Flinders Street Station Underpass,FliS_T
+2019,01,24,910109,Spencer St-Collins St (North),Col620_T
+2019,01,28,884885,The Arts Centre,VAC_T
+2019,01,1,871901,Bourke Street Mall (North),Bou292_T
+2019,01,5,799066,Princes Bridge,PriNW_T
+2019,01,2,704858,Bourke Street Mall (South),Bou283_T
+2019,01,47,680089,Melbourne Central-Elizabeth St (East),Eli250_T
+2019,01,29,598964,St Kilda Rd-Alexandra Gardens,AG_T
+2020,07,22,391523,Flinders St-Elizabeth St (East),Eli274_T
+2020,07,41,290935,Flinders La-Swanston St (West),Swa31
+2020,07,55,287679,Elizabeth St-La Trobe St (East),Eli380_T
+2020,07,4,222709,Town Hall (West),Swa123_T
+2020,07,1,216577,Bourke Street Mall (North),Bou292_T
+2020,07,47,205960,Melbourne Central-Elizabeth St (East),Eli250_T
+2020,07,3,193613,Melbourne Central,Swa295_T
+2020,07,24,182899,Spencer St-Collins St (North),Col620_T
+2020,07,5,169971,Princes Bridge,PriNW_T
+2020,07,25,168589,Melbourne Convention Exhibition Centre,MCEC_T
+2011,03,4,1139489,Town Hall (West),Swa123_T
+2011,03,3,912169,Melbourne Central,Swa295_T
+2011,03,2,887224,Bourke Street Mall (South),Bou283_T
+2011,03,6,871291,Flinders Street Station Underpass,FliS_T
+2011,03,5,687669,Princes Bridge,PriNW_T
+2011,03,15,640687,State Library,QV_T
+2011,03,13,596440,Flagstaff Station,Wil277_T
+2011,03,16,548421,Australia on Collins,Col270_T
+2011,03,17,386083,Collins Place (South),Col15_T
+2011,03,7,329618,Birrarung Marr,Fed_T
+2019,09,22,1271923,Flinders St-Elizabeth St (East),Eli274_T
+2019,09,6,1008301,Flinders Street Station Underpass,FliS_T
+2019,09,24,984837,Spencer St-Collins St (North),Col620_T
+2019,09,4,971314,Town Hall (West),Swa123_T
+2019,09,1,943758,Bourke Street Mall (North),Bou292_T
+2019,09,5,925437,Princes Bridge,PriNW_T
+2019,09,3,869674,Melbourne Central,Swa295_T
+2019,09,28,772680,The Arts Centre,VAC_T
+2019,09,35,733141,Southbank,SouthB_T
+2019,09,47,672015,Melbourne Central-Elizabeth St (East),Eli250_T
+2013,05,4,1031301,Town Hall (West),Swa123_T
+2013,05,3,916707,Melbourne Central,Swa295_T
+2013,05,1,803441,Bourke Street Mall (North),Bou292_T
+2013,05,2,740244,Bourke Street Mall (South),Bou283_T
+2013,05,5,673187,Princes Bridge,PriNW_T
+2013,05,15,612240,State Library,QV_T
+2013,05,13,607126,Flagstaff Station,Wil277_T
+2013,05,6,606688,Flinders Street Station Underpass,FliS_T
+2013,05,16,514372,Australia on Collins,Col270_T
+2013,05,9,435038,Southern Cross Station,Col700_T
+2018,06,41,1250034,Flinders La-Swanston St (West),Swa31
+2018,06,35,1082290,Southbank,SouthB_T
+2018,06,22,1062634,Flinders St-Elizabeth St (East),Eli274_T
+2018,06,1,982267,Bourke Street Mall (North),Bou292_T
+2018,06,24,979066,Spencer St-Collins St (North),Col620_T
+2018,06,4,969195,Town Hall (West),Swa123_T
+2018,06,6,918147,Flinders Street Station Underpass,FliS_T
+2018,06,5,876728,Princes Bridge,PriNW_T
+2018,06,3,846871,Melbourne Central,Swa295_T
+2018,06,28,719852,The Arts Centre,VAC_T
+2013,04,4,1134511,Town Hall (West),Swa123_T
+2013,04,3,978527,Melbourne Central,Swa295_T
+2013,04,1,810826,Bourke Street Mall (North),Bou292_T
+2013,04,2,784050,Bourke Street Mall (South),Bou283_T
+2013,04,5,721433,Princes Bridge,PriNW_T
+2013,04,15,613999,State Library,QV_T
+2013,04,6,611924,Flinders Street Station Underpass,FliS_T
+2013,04,16,518370,Australia on Collins,Col270_T
+2013,04,13,517956,Flagstaff Station,Wil277_T
+2013,04,9,369313,Southern Cross Station,Col700_T
